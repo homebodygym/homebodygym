@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Home page test... hello world
+A Site Starter Materialize Templates for Jekyll.
