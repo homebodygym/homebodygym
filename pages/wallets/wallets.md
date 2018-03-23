@@ -1,7 +1,7 @@
 ---
 title: "test"
 layout: home
-permalink: "/wallet/"
+permalink: "/wallets/"
 seotitle: "5 Best Cryptocurrency Hardware Wallets"
 ---
 
