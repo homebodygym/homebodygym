@@ -39,7 +39,7 @@ Click the Sign up button in the top-right hand corner of your screen:
 
 The following form should appear:
 
-![Form](/img/bitcoin/buy/form.jpg)
+![Form](/img/bitcoin/buy/fill.jpg)
 
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
