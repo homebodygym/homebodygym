@@ -5,6 +5,8 @@ permalink: "/bitcoin/how-to-buy/"
 seotitle: "3 Ways to Buy Bitcoin with Credit or Debit Quickly (2018)"
 ---
 
+# How to Buy Bitcoin - A Guide For Beginners
+
 Bitcoin is valuable commodity – no wonder you want to buy some! 
 
 If it's your first time trying to buy Bitcoin, the process may be a bit tricky for you. 
@@ -36,3 +38,4 @@ The following form should appear:
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
 ![Email](/img/bitcoin/buy/e-mail.jpg)
+
