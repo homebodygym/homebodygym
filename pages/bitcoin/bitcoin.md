@@ -6,6 +6,12 @@ seotitle: "Beginners Guide to Bitcoin (Everything You Need to Know 2018)"
 ---
 # Introduction to Bitcoin - The Blockchain Pioneer
 
+<h3 class="page-subtitle">
+	March 25th, 2018 by 
+	<img src="/img/profile/diego.jpg" class="circle" alt="Headshot">
+	Diego Riitano
+</h3>
+
 ![bitcoin logo](/img/logo.png){: .img-right .img-small}
 
 Fact:
