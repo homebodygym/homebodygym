@@ -61,3 +61,4 @@ In order to verify blocks, miners must guess the correct cryptographic hash for 
 ## How to Buy 
 
 ## Conclusion 
+
