@@ -56,13 +56,38 @@ Transactions on the blockchain are not recorded automatically, though. Such a ta
 
 ## Mining & Proof-of-Work 
 
-Transactions on the blockchain are verified by bitcoin miners, who are in turn rewarded with bitcoin. But what exactly do bitcoin miners do?
+Transactions on the blockchain are verified by Bitcoin miners, who are in turn rewarded with bitcoin. But what exactly do Bitcoin miners do?
 
-Miners verify blocks on the blockchain. A block is a set of transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
+Miners verify blocks on the blockchain. A block is a set of Bitcoin transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
 
-In order to verify blocks, miners must guess the correct cryptographic hash for that block. 
+In order to verify blocks, miners must guess the correct cryptographic hash for that block. Cryptographic hashes, or just hashes, are one-way encryptions. A hash takes any input and returns a hash value. Bitcoin uses 64-digit hexadecimal hashes.
+
+Because every different input will result in a different output, the outputs are almost impossible to predict. In order to verify a block, miners must find an input that generates a 64-digit hash value equal to or lower than than the target.
+
+Due to the randomness of the hash values, the only way to find the right input is to guess. Miners use hardware such as graphics cards and ASIC-miners to perform millions of guesses, or hashes per second. 
+
+This is known as proof-of-work (PoW). Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
+
+The first miner to successfully verify the block receives a reward in the form of Bitcoins, which incentivizes miners to continue verifying transactions. The reward was initially 50 Bitcoins, but that number halved in 2012, then again in 2016 to 12.5 bitcoins. In the year 2020, it will half again and so on.
+
+When a block is verified, it is added to the blockchain. The next block includes the hash of the previous. This helps to with the principle of immutability, because if someone wanted to change a block, they would have to change all the following blocks too.
+
+The concept of mining also introduces the principle of scarcity to Bitcoin. Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
+
+The scarcity of Bitcoin helps drive its value. While the demand for Bitcoin is high, the supply is low, so the value is driven up.
+
+So who's the genius behind the whole thing?
+
+As it turns out, no one knows.
 
 ## History
+
+In 2008, a paper called "Bitcoin - A Peer to Peer Electronic Cash System" was sent out to a cryptography mailing list, by Satoshi Nakamoto. The paper described a currency that was independent from any banks or central authorities. 
+
+On January 3, 2009, Bitcoin's first block was generated. 
+
+http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12#but-satoshi-nakamoto-didnt-work-entirely-alone-3
+https://futurism.com/images/the-entire-history-of-bitcoin-in-a-single-infographic/
 
 ## How to Buy 
 
