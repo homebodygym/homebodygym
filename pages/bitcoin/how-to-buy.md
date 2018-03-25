@@ -38,4 +38,3 @@ The following form should appear:
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
 ![Email](/img/bitcoin/buy/e-mail.jpg)
-
