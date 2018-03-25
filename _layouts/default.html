@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.seotitle %}{{ page.seotitle }} {% else %} {{ page.title }} {% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -11,15 +11,15 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700" rel="stylesheet">
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    <div class="wrapper-masthead static">
+    <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/img/logo.png" /></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -27,25 +27,9 @@
           </div>
 
           <nav>
-            {% for item in site.data.menus %}
-              {% if item.subcategories != null %}
-                <span class="item-with-sub">
-                  <a href="{{ site.baseurl }}{{ item.url }}">
-                    <li>{{ item.name }} ▼</li>
-                    <div class="sub-menu">
-                    {% for subcategory in item.subcategories %}
-                      <a href="{{ site.url }}{{ subcategory.subhref }}"><li>{{ subcategory.subtitle }}</li></a>
-                    {% endfor %}
-                  </div>
-                  </a>
-                </span>
-
-              {% else %} 
-              <a href="{{ site.baseurl }}{{ item.url }}">
-                <li>{{ item.name }}</li>
-              </a>
-              {% endif %}
-            {% endfor %}
+            <a href="/bitcoin/">Buy Bitcoin</a>
+            <a href="/altcoins/">Buy Altcoins</a>
+            <a href="/wallets/">Wallets</a>
           </nav>
         </header>
       </div>
@@ -58,14 +42,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <div class="footer-menu">
-           {% for item in site.data.footer %}
-            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
-          {% endfor %}
-          </div>
-          <div class="icons">
-            {% include svg-icons.html %}
-          </div>
+          {% include svg-icons.html %}
         </footer>
       </div>
     </div>
