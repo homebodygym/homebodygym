@@ -44,3 +44,16 @@ The following form should appear:
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
 ![Email](/img/bitcoin/buy/verif.jpg)
+
+Coinbase will send an email to the address you provided previously. Check your mailbox, and verify your email address.
+
+Next, [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} is going to want your personal phone number. Don't worry, they won't give it away or spam you  – rather, the number is used for verification purposes. They'll text you a security code which you are required to enter on screen.
+
+From then on, a new verification code will be messaged to your phone and required before any large transactions occur. 
+
+The next step of the sign up process is ID verification. Coinbase requires its users to be 18+ years of age. Furthermore, a government issued ID is required. This includes your state driver's license. [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} walks you through the process – simply take a picture of your ID using your phone, upload it to [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"}, and wait for them to verify your ID.
+
+## Step 2: Add Payment Method
+
+[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via Credit Cards, Debit Cards, and Bank Transfers. 
+
