@@ -43,4 +43,4 @@ The following form should appear:
 
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
-![Email](/img/bitcoin/buy/confirm.jpg)
+![Email](/img/bitcoin/buy/verif.jpg)
