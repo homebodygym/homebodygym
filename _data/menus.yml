@@ -1,18 +1,8 @@
 - name: Bitcoin
   url: /bitcoin/
-  subcategories:
-    - subtitle: "What is Bitcoin"
-      subhref: "/bitcoin/"
-    - subtitle: "How to Buy"
-      subhref: "/bitcoin/how-to-buy/"
   
 - name: Altcoins
   url: /altcoins/
-  subcategories:
-    - subtitle: "What are Altcoins"
-      subhref: "/altcoins/"
-    - subtitle: "How to Buy Altcoins"
-      subhref: "/altcoins/how-to-buy/"
 
 - name: Wallets
   url: /wallets/
