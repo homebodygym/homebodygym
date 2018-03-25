@@ -6,7 +6,7 @@ seotitle: "Beginners Guide to Bitcoin (Everything You Need to Know 2018)"
 ---
 # Introduction to Bitcoin - The Blockchain Pioneer
 
-![bitcoin logo](/img/bitcoin-logo.png){: .img-right .img-small}
+![bitcoin logo](/img/bitcoin/bitcoin-logo.png){: .img-right .img-small}
 
 Fact:
 
