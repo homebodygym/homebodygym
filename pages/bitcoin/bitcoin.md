@@ -2,9 +2,11 @@
 title: "Introduction to Bitcoin - The Blockchain Pioneer"
 layout: default
 permalink: "/bitcoin/"
-seotitle: "3 Ways to Buy Bitcoin with Credit or Debit (2018)"
+seotitle: "Beginners Guide to Bitcoin (Everything You Need to Know 2018)"
 ---
-![bitcoin logo](/img/logo.png){: .img-right .img-small}
+# Introduction to Bitcoin - The Blockchain Pioneer
+
+![bitcoin logo](/img/bitcoin-logo.png){: .img-right .img-small}
 
 Fact:
 
@@ -36,7 +38,7 @@ For Bitcoin, the blockchain is a digital ledger that contains the history of all
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kubGCSj5y3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Every computer on the Bitcoin network has a copy of the blockchain downloaded. This is the key to many of Bitcoin's principles.
+Every computer on the Bitcoin network has a copy of the blockchain downloaded. These computers are called nodes, and they share information among each other. This is the key to many of Bitcoin's principles.
 
 Distributing the blockchain to many computers prevents one central authority from holding all the power, decentralizing the network.
 
@@ -47,6 +49,12 @@ The principles of decentralization and immutability help keep bitcoin fair for a
 Transactions on the blockchain are not recorded automatically, though. Such a task requires time and energy, which is why Bitcoin implements mining in order to power and verify the blockchain.
 
 ## Mining & Proof-of-Work 
+
+Transactions on the blockchain are verified by bitcoin miners, who are in turn rewarded with bitcoin. But what exactly do bitcoin miners do?
+
+Miners verify blocks on the blockchain. A block is a set of transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
+
+In order to verify blocks, miners must guess the correct cryptographic hash for that block. 
 
 ## History
 
