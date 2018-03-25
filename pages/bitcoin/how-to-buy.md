@@ -25,7 +25,7 @@ Finding an exchange is the first step in the Bitcoin buying process. There are p
 
 [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} is a very beginner friendly US based exchange. They sell cryptocurrency to most countries and all US states. They charge a 1.49% fee on bank transfers and 3.99% fee on credit and debit card purchases. 
 
-![Coinbase](/img/bitcoin/buy/coinbase.jpg)
+![Coinbase](/img/bitcoin/buy/home.jpg)
 
 We'll be using [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} for this tutorial – however, this is not the only exchange out there. 
 
