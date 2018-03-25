@@ -9,7 +9,7 @@ seotitle: "3 Ways to Buy Bitcoin with Credit or Debit Quickly (2018)"
 
 <h3 class="page-subtitle">
 	March 25th, 2018 by 
-	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
+	<img src="/img/profile/close.jpg" class="circle" alt="Headshot">
 	Jacob Tuwiner
 </h3>
 
