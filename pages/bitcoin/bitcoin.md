@@ -66,7 +66,9 @@ Miners verify blocks on the blockchain. A block is a set of Bitcoin transactions
 
 ![Mining](/img/bitcoin/mining.jpeg)
 
-In order to verify blocks, miners must guess the correct cryptographic hash for that block. Cryptographic hashes, or just hashes, are one-way encryptions. A hash takes any input and returns a hash value. Bitcoin uses 64-digit hexadecimal hashes.
+In order to verify blocks, miners must guess the correct cryptographic hash for that block. Cryptographic hashes, or just hashes, are one-way encryptions. 
+
+A hash takes any input and returns a hash value. Bitcoin uses 64-digit hexadecimal hashes.
 
 Because every different input will result in a different output, the outputs are almost impossible to predict. In order to verify a block, miners must find an input that generates a 64-digit hash value equal to or lower than than the target.
 
@@ -74,7 +76,9 @@ Due to the randomness of the hash values, the only way to find the right input i
 
 ![ASIC](/img/bitcoin/dragonmint.jpg){: .img-side}
 
-This is known as [Proof-of-Work (PoW)](https://en.bitcoin.it/wiki/Proof_of_work){: target="_blank"}. Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
+This is known as [Proof-of-Work (PoW)](https://en.bitcoin.it/wiki/Proof_of_work){: target="_blank"}. Miners perform time-consuming work that is easily proven. 
+
+PoW prevents the largest Bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
 
 The first miner to successfully verify the block receives a reward in the form of Bitcoins, which incentivizes miners to continue verifying transactions. The reward was initially 50 Bitcoins, but that number halved in 2012, then again in 2016 to 12.5 bitcoins. In the year 2020, it will half again and so on.
 
@@ -82,7 +86,9 @@ When a block is verified, it is added to the blockchain. The next block includes
 
 ![Miners](/img/bitcoin/miners.jpeg)
 
-The concept of mining also introduces the principle of scarcity to Bitcoin. Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
+The concept of mining also introduces the principle of scarcity to Bitcoin. 
+
+Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
 
 The scarcity of Bitcoin helps drive its value. While the demand for Bitcoin is high, the supply is low, so the value increases.
 
@@ -98,7 +104,9 @@ On January 3, 2009, Bitcoin's first block was generated. In 2010, one of the fir
 
 ### Bitcoin and the Dark Web
 
-The Silk Road launched in 2011. It was an online marketplace for drugs that used bitcoin as its main form of currency to protect the identity of users. The Silk Road was later shut down, but it was one of first websites to display the power of anonymity that bitcoin had.
+The Silk Road launched in 2011. It was an online marketplace for drugs that used bitcoin as its main form of currency to protect the identity of users. 
+
+The Silk Road was later shut down, but it was one of first websites to display the power of anonymity that bitcoin had.
 
 ![Satoshi](/img/bitcoin/satoshi.jpg)
 
@@ -114,6 +122,8 @@ Bitcoin can be bought on a variety of exchanges, including Coinbase, Gemini, Kra
 
 Bitcoin was the first cryptocurrency ever created, and it began a digital currency revolution. The introduction of a decentralized, immutable, and pseudoanonymous currency has many applications, and its potential is only just starting to be realized.
 
-The blockchain was also first successfully implemented in Bitcoin. Bitcoin has spawned many competitors, and driven innovation in the financial technology sector. Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
+The blockchain was also first successfully implemented in Bitcoin. Bitcoin has spawned many competitors, and driven innovation in the financial technology sector. 
+
+Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
 
 Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
