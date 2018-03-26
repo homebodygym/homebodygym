@@ -37,10 +37,6 @@ Click the Sign up button in the top-right hand corner of your screen:
 
 ![Sign Up](/img/bitcoin/buy/sign-up.jpg)
 
-The following form should appear:
-
-![Form](/img/bitcoin/buy/fill.jpg)
-
 Fill out the required fields, and create your account. You should receive an email confirmation message:
 
 ![Email](/img/bitcoin/buy/verif.jpg)
@@ -55,5 +51,23 @@ The next step of the sign up process is ID verification. Coinbase requires its u
 
 ## Step 2: Add Payment Method
 
-[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via Credit Cards, Debit Cards, and Bank Transfers. 
+Once your account setup is complete, you'll be brought to the dashboard. To begin the buying process, click the "Buy/Sell" button in the navigation bar.
+
+![Buy - Sell](/img/bitcoin/buy/buy-sell.jpg)
+
+From here, you can deposit cryptocurrency to your account, or sell it for a regular fiat currency such as USD. 
+
+[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via Credit Cards, Debit Cards, and Bank Transfers. In order to add your form of payment, click the "Add new account" button. 
+
+![Payment Method](/img/bitcoin/buy/payment.jpg)
+
+## Step 3: Buy Bitcoin
+
+All that's left to do is make your purchase! Coinbase supports the exchange of Bitcoin, Litecoin, Ethereum, and BCash. 
+
+![Trade](/img/bitcoin/buy/trade.jpg)
+
+It's important to note that Coinbase charges a fee for every trade, and it's pretty hefty. They take a 1.49% commission on bank transfers and a 3.99% commission on any transaction made with a credit/debit card. 
+
+Coinbase is designed for beginners – their platform is simple and easy to understand. They charge high fees for their simplistic platform. However, it's still a great option for first-time buyers without any experience in the cryptocurrency space. Overall, they're a reputable company offering a great service. 
 
