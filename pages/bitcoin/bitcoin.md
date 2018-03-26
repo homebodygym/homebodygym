@@ -70,7 +70,7 @@ Because every different input will result in a different output, the outputs are
 
 Due to the randomness of the hash values, the only way to find the right input is to guess. Miners use hardware ASIC miners to perform millions of guesses, or hashes per second. 
 
-![ASIC](/img/bitcoin/dragonmint.jpg){: .img-small .img-right}
+![ASIC](/img/bitcoin/dragonmint.jpg){: .img-side}
 
 This is known as proof-of-work (PoW). Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
 
@@ -78,7 +78,7 @@ The first miner to successfully verify the block receives a reward in the form o
 
 When a block is verified, it is added to the blockchain. The next block includes the hash of the previous. This helps to with the principle of immutability, because if someone wanted to change a block, they would have to change all the following blocks too.
 
-![Miners](/img/bitcoin/miners.jpg)
+![Miners](/img/bitcoin/miners.jpeg)
 
 The concept of mining also introduces the principle of scarcity to Bitcoin. Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
 
