@@ -17,7 +17,7 @@ Bitcoin is a valuable commodity – no wonder you want to buy some!
 
 If it's your first time trying to buy Bitcoin, the process may be a bit tricky for you. 
 
-Don't worry, we've got you covered! This Bitcoin buying tutorial was made for first time buyers. We'll walk you through the buying process, step-by-step, with pictures! 
+Don't worry, we've got you covered! This Bitcoin buying tutorial was made for first time buyers. We'll walk you through the buying process, step-by-step, with pictures.
 
 ## Step 1: Find an Exchange 
 
@@ -57,7 +57,7 @@ Once your account setup is complete, you'll be brought to the dashboard. To begi
 
 From here, you can deposit cryptocurrency to your account, or sell it for a regular fiat currency such as USD. 
 
-[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via Credit Cards, Debit Cards, and Bank Transfers. In order to add your form of payment, click the "Add new account" button. 
+[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via C]credit cards, debit cards, and bank transfers. In order to add your form of payment, click the "Add new account" button. 
 
 ![Payment Method](/img/bitcoin/buy/payment.jpg)
 

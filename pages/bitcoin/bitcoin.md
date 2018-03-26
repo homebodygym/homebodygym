@@ -48,6 +48,8 @@ Every computer on the Bitcoin network has a copy of the blockchain downloaded. T
 
 Distributing the blockchain to many computers prevents one central authority from holding all the power, decentralizing the network.
 
+![Bitcoin Graphic](/img/bitcoin/graphic.jpg)
+
 The other massive benefit of the blockchain is immutability. If one hacker attempts to alter the blockchain to credit coins to himself, he may succeed in altering the blockchain on one or a few computers. However, the network will ignore this change, since the majority of computers were not altered.
 
 The principles of decentralization and immutability help keep bitcoin fair for all.
@@ -60,17 +62,23 @@ Transactions on the blockchain are verified by Bitcoin miners, who are in turn r
 
 Miners verify blocks on the blockchain. A block is a set of Bitcoin transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
 
+![Mining](/img/bitcoin/mining.jpg)
+
 In order to verify blocks, miners must guess the correct cryptographic hash for that block. Cryptographic hashes, or just hashes, are one-way encryptions. A hash takes any input and returns a hash value. Bitcoin uses 64-digit hexadecimal hashes.
 
 Because every different input will result in a different output, the outputs are almost impossible to predict. In order to verify a block, miners must find an input that generates a 64-digit hash value equal to or lower than than the target.
 
-Due to the randomness of the hash values, the only way to find the right input is to guess. Miners use hardware such as graphics cards and ASIC-miners to perform millions of guesses, or hashes per second. 
+Due to the randomness of the hash values, the only way to find the right input is to guess. Miners use hardware ASIC miners to perform millions of guesses, or hashes per second. 
+
+![ASIC](/img/bitcoin/dragonmint.jpg){: .img-small .img-right}
 
 This is known as proof-of-work (PoW). Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
 
 The first miner to successfully verify the block receives a reward in the form of Bitcoins, which incentivizes miners to continue verifying transactions. The reward was initially 50 Bitcoins, but that number halved in 2012, then again in 2016 to 12.5 bitcoins. In the year 2020, it will half again and so on.
 
 When a block is verified, it is added to the blockchain. The next block includes the hash of the previous. This helps to with the principle of immutability, because if someone wanted to change a block, they would have to change all the following blocks too.
+
+![Miners](/img/bitcoin/miners.jpg)
 
 The concept of mining also introduces the principle of scarcity to Bitcoin. Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
 
@@ -87,6 +95,8 @@ In 2008, a paper called "Bitcoin - A Peer to Peer Electronic Cash System" was se
 On January 3, 2009, Bitcoin's first block was generated. In 2010, one of the first real-world transactions occurred when a bitcoin enthuisast on the Bitcoin Talk forum offered to pay 10,000 bitcoins for 2 pizzas. The value of those bitcoins today is over 70 million dollars.
 
 The Silk Road launched in 2011. It was an online marketplace for drugs that used bitcoin as its main form of currency to protect the identity of users. The Silk Road was later shut down, but it was one of first websites to display the power of anonymity that bitcoin had.
+
+![Satoshi](/img/bitcoin/satoshi.jpg)
 
 On April 23, 2011, Nakamoto sent an email to Bitcoin Core developer Mike Hearn, saying that "I've moved on to other things." After this, Nakamoto disappeared from the scene. Since then, many have claimed to be him, and many others have been speculated to be the creator of Bitcoin. 
 
