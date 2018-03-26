@@ -62,7 +62,7 @@ Transactions on the blockchain are verified by Bitcoin miners, who are in turn r
 
 Miners verify blocks on the blockchain. A block is a set of Bitcoin transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
 
-![Mining](/img/bitcoin/mining.jpg)
+![Mining](/img/bitcoin/mining.jpeg)
 
 In order to verify blocks, miners must guess the correct cryptographic hash for that block. Cryptographic hashes, or just hashes, are one-way encryptions. A hash takes any input and returns a hash value. Bitcoin uses 64-digit hexadecimal hashes.
 
