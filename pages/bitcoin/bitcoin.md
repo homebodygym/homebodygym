@@ -24,11 +24,11 @@ If you bought Bitcoin one year ago, you would have made over a 7x return on your
 
 But what exactly is Bitcoin?
 
-This post will explain everything a Bitcoin beginner needs to know.
+This post will explain everything a Bitcoin beginner needs to know. 
 
 ## What is Bitcoin?
 
-Bitcoin is a form of digital currency known as a cryptocurrency. It exists entirely in software, and has no physical form.
+Bitcoin is a form of digital currency known as a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency){: target="_blank"}. It exists entirely in software, and has no physical form.
 
 Bitcoin was the first cryptocurrency ever created, and it was built on a few core principles: 
 
@@ -38,7 +38,7 @@ Bitcoin was the first cryptocurrency ever created, and it was built on a few cor
 
 ## Blockchain Technology & Decentralization
 
-For Bitcoin, the blockchain is a digital ledger that contains the history of all Bitcoin transactions. This ledger is shared with everyone interacting with the blockchain network.
+The blockchain is a digital ledger that contains the history of all Bitcoin transactions. This ledger is shared with everyone interacting with the blockchain network.
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kubGCSj5y3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Distributing the blockchain to many computers prevents one central authority fro
 
 ![Bitcoin Graphic](/img/bitcoin/graphic.jpg)
 
-The other massive benefit of the blockchain is immutability. If one hacker attempts to alter the blockchain to credit coins to himself, he may succeed in altering the blockchain on one or a few computers. However, the network will ignore this change, since the majority of computers were not altered.
+The other massive benefit of the blockchain is [immutability](https://www.vpnmentor.com/blog/blockchain-bitcoin-really-immutable/){: target="_blank"}. If one hacker attempts to alter the blockchain to credit coins to himself, he may succeed in altering the blockchain on one or a few computers. However, the network will ignore this change, since the majority of computers were not altered.
 
 The principles of decentralization and immutability help keep bitcoin fair for all.
 
@@ -58,7 +58,9 @@ Transactions on the blockchain are not recorded automatically, though. Such a ta
 
 ## Mining & Proof-of-Work 
 
-Transactions on the blockchain are verified by Bitcoin miners, who are in turn rewarded with bitcoin. But what exactly do Bitcoin miners do?
+Transactions on the blockchain are verified by Bitcoin miners, who are in turn rewarded with bitcoin.
+
+But what exactly do Bitcoin miners do?
 
 Miners verify blocks on the blockchain. A block is a set of Bitcoin transactions that takes up 1 MB of data. The size of each transaction varies greatly and one block may be hundreds or thousands of transactions.
 
@@ -72,17 +74,17 @@ Due to the randomness of the hash values, the only way to find the right input i
 
 ![ASIC](/img/bitcoin/dragonmint.jpg){: .img-side}
 
-This is known as proof-of-work (PoW). Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
+This is known as [Proof-of-Work (PoW)](https://en.bitcoin.it/wiki/Proof_of_work){: target="_blank"}. Miners perform time-consuming work that is easily proven. PoW prevents the largest bitcoin holders from controlling the network, instead giving it to anyone with the ability to mine.
 
 The first miner to successfully verify the block receives a reward in the form of Bitcoins, which incentivizes miners to continue verifying transactions. The reward was initially 50 Bitcoins, but that number halved in 2012, then again in 2016 to 12.5 bitcoins. In the year 2020, it will half again and so on.
 
-When a block is verified, it is added to the blockchain. The next block includes the hash of the previous. This helps to with the principle of immutability, because if someone wanted to change a block, they would have to change all the following blocks too.
+When a block is verified, it is added to the blockchain. The next block includes the hash of the previous. This helps to with the principle of immutability, because if someone wanted to change a block, they would have to change all of the following blocks too.
 
 ![Miners](/img/bitcoin/miners.jpeg)
 
 The concept of mining also introduces the principle of scarcity to Bitcoin. Because the reward for mining is halved repeatedly, the total number of Bitcoins that exist will never exceed 21 million. By the year 2140, all Bitcoins will be mined, and miners will only receive transaction fees for verifying blocks.
 
-The scarcity of Bitcoin helps drive its value. While the demand for Bitcoin is high, the supply is low, so the value is driven up.
+The scarcity of Bitcoin helps drive its value. While the demand for Bitcoin is high, the supply is low, so the value increases.
 
 So who's the genius behind the whole thing?
 
@@ -90,9 +92,11 @@ As it turns out, no one knows.
 
 ## History
 
-In 2008, a paper called "Bitcoin - A Peer to Peer Electronic Cash System" was sent out to a cryptography mailing list, by Satoshi Nakamoto. The paper described a currency that was independent from any banks or central authorities. 
+In 2008, a [paper](https://bitcoin.org/bitcoin.pdf){: target="_blank"} called "Bitcoin - A Peer to Peer Electronic Cash System" was sent out to a cryptography mailing list, by Satoshi Nakamoto. The paper described a currency that was independent from any banks or central authorities. 
 
 On January 3, 2009, Bitcoin's first block was generated. In 2010, one of the first real-world transactions occurred when a bitcoin enthuisast on the Bitcoin Talk forum offered to pay 10,000 bitcoins for 2 pizzas. The value of those bitcoins today is over 70 million dollars.
+
+### Bitcoin and the Dark Web
 
 The Silk Road launched in 2011. It was an online marketplace for drugs that used bitcoin as its main form of currency to protect the identity of users. The Silk Road was later shut down, but it was one of first websites to display the power of anonymity that bitcoin had.
 
@@ -104,7 +108,7 @@ In the following years, Bitcoin continued to grow and exchanges began to pop up.
 
 ## How to Buy 
 
-Bitcoin can be bought on a variety of exchanges, including Coinbase, Gemini, Kraken, and others. For a detailed guide on how to buy Bitcoin through Coinbase, check out our guide.
+Bitcoin can be bought on a variety of exchanges, including Coinbase, Gemini, Kraken, and others. For a detailed guide on how to buy Bitcoin through Coinbase, check out our [guide](/bitcoin/how-to-buy/).
 
 ## Conclusion 
 
