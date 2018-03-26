@@ -84,12 +84,22 @@ As it turns out, no one knows.
 
 In 2008, a paper called "Bitcoin - A Peer to Peer Electronic Cash System" was sent out to a cryptography mailing list, by Satoshi Nakamoto. The paper described a currency that was independent from any banks or central authorities. 
 
-On January 3, 2009, Bitcoin's first block was generated. 
+On January 3, 2009, Bitcoin's first block was generated. In 2010, one of the first real-world transactions occurred when a bitcoin enthuisast on the Bitcoin Talk forum offered to pay 10,000 bitcoins for 2 pizzas. The value of those bitcoins today is over 70 million dollars.
 
-http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12#but-satoshi-nakamoto-didnt-work-entirely-alone-3
-https://futurism.com/images/the-entire-history-of-bitcoin-in-a-single-infographic/
+The Silk Road launched in 2011. It was an online marketplace for drugs that used bitcoin as its main form of currency to protect the identity of users. The Silk Road was later shut down, but it was one of first websites to display the power of anonymity that bitcoin had.
+
+On April 23, 2011, Nakamoto sent an email to Bitcoin Core developer Mike Hearn, saying that "I've moved on to other things." After this, Nakamoto disappeared from the scene. Since then, many have claimed to be him, and many others have been speculated to be the creator of Bitcoin. 
+
+In the following years, Bitcoin continued to grow and exchanges began to pop up. To this day though, no one knows the true identity of the individual or individuals behind Bitcoin.
 
 ## How to Buy 
 
+Bitcoin can be bought on a variety of exchanges, including Coinbase, Gemini, Kraken, and others. For a detailed guide on how to buy Bitcoin through Coinbase, check out our guide.
+
 ## Conclusion 
 
+Bitcoin was the first cryptocurrency ever created, and it began a digital currency revolution. The introduction of a decentralized, immutable, and pseudoanonymous currency has many applications, and its potential is only just starting to be realized.
+
+The blockchain was also first successfully implemented in Bitcoin. Bitcoin has spawned many competitors, and driven innovation in the financial technology sector. Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
+
+Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
