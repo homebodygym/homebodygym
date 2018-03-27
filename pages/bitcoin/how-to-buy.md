@@ -57,7 +57,7 @@ Once your account setup is complete, you'll be brought to the dashboard. To begi
 
 From here, you can deposit cryptocurrency to your account, or sell it for a regular fiat currency such as USD. 
 
-[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via C]credit cards, debit cards, and bank transfers. In order to add your form of payment, click the "Add new account" button. 
+[Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"} allows payment via credit cards, debit cards, and bank transfers. In order to add your form of payment, click the "Add new account" button. 
 
 ![Payment Method](/img/bitcoin/buy/payment.jpg)
 
