@@ -127,3 +127,5 @@ The blockchain was also first successfully implemented in Bitcoin. Bitcoin has s
 Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
 
 Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
+
+![Worldwide](/img/bitcoin/worldwide.jpg){: .img-center}
