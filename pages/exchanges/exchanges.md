@@ -45,7 +45,7 @@ seotitle: "5 Best Cryptocurrency Hardware Wallets"
 		<td>Medium</td>
 		<td>Slow</td>
 		<td>Poor</td>
-
+		<td></td>
 	</tr>
 
 ## Coinmama Overview 
