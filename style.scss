@@ -447,3 +447,18 @@ figure {
   margin: 0.5em;
   padding: 0.5em;
 }
+
+/* header logo */
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h3 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
