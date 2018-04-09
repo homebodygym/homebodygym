@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   margin: 0px;
+  text-align: center;
   a {
     color: inherit;
   }
@@ -317,7 +318,7 @@ text-align: center;
 }
 
 th {
-background-color: #1faf0f;
+background-color: #029aff;
 text-color: white;
 }
 
@@ -338,17 +339,17 @@ height: auto;
 /* Button */
 
 .big-button {
-background: #1faf0f none repeat scroll 0 0;
+background: #0043ff none repeat scroll 0 0;
 border-radius: 4px;
 color: #fff;
 display: inline-block;
 padding: 10px 15px;
-border: 1px solid #1faf0f;
+border: 1px solid #0043ff;
 }
 
 .big-button:hover {
 background: #fff none repeat scroll 0 0;
-border: 1px solid #1faf0f;
+border: 1px solid #fff;
 color: #4183c4;
 }
 
