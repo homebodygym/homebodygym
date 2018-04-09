@@ -5,11 +5,11 @@ permalink: "/exchanges/"
 seotitle: "5 Best Cryptocurrency Hardware Wallets"
 ---
 
-# Buying Bitcoin with Credit or Debit 
+# Popular Bitcoin Exchanges 
 
 <table class="basic-table">
 	<tr>
-		<th>PIC</th>
+		<th>Logo</th>
 		<th>Exchange</th>
 		<th>Rating</th>
 		<th>Buy</th>
