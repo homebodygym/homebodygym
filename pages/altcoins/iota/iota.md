@@ -19,7 +19,7 @@ This guide will explain everything you need to know in order to buy IOTA, an alt
 
 ## IOTA Overview
 
-IOTA is a cyrptocurrency based on an entirely new distributed ledger known as the Tangle.
+IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
 
 The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This vastly different from the blockchain that Bitcoin and other altcoins utilize.
 
