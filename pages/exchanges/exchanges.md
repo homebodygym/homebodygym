@@ -81,5 +81,4 @@ Coinbase has high transaction limits, though your limits will vary based on your
 You can earn $10 of *free bitcoin* when you buy $100 or from [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: target="_blank"}.
 
 
-
 ## Coinmama Overview 
