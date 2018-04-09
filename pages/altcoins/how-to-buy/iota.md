@@ -31,7 +31,7 @@ In order to complete a transaction on the IOTA network, that transaction must ve
 * IOTA utilizes a trinary hash function called Curl, which makes it immune to quantum computers
 
 <figure>
-	<img alt="The Tangle" src="img/altcoins/iota/tangle.png" class="img-middle">
+	<img alt="The Tangle" src="/img/altcoins/iota/tangle.png" class="img-middle">
 	<figcaption>Every transaction in the Tangle verifies two others</figcaption>
 </figure>
 
