@@ -62,7 +62,13 @@ This guide was created for the new guy. You'll learn about different Bitcoin exc
 	</tr>
 </table>
 
-## Coinbase Overview 
+## Taking a Closer Look 
+
+When it comes to buying Bitcoin, the exchanges listed in the table above are all exemplary choices – although, different exchanges' fees, transactions times, and privacy levels vary. 
+
+Now we're going to take a closer look at each exchange so you can make the most informed decision. 
+
+### Coinbase 
 
 
 

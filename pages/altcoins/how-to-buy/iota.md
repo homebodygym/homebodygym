@@ -1,7 +1,7 @@
 ---
 title: "How to Buy IOTA – A Beginner's Guide "
 layout: default
-permalink: "/altcoins/iota/"
+permalink: "/altcoins/how-to-buy/iota/"
 seotitle: "How to Buy IOTA Quickly with Credit or Debit (2018)"
 ---
 
