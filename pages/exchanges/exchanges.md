@@ -69,7 +69,7 @@ When it comes to buying Bitcoin, the exchanges listed in the table above are all
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
 <div class="small-title-image">
-	<img alt="coinbase logo" class="small-title-image" src="/img/exchange/coinbase/logo.png" />
+	<img alt="coinbase logo" src="/img/exchange/coinbase/logo.png" />
 	<h3>Coinbase</h3>
 </div>
 
