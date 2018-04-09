@@ -53,7 +53,7 @@ After buying Bitcoin, you need to send it to an exchange that trades IOTA. In th
 
 In Binance, hover over the Funds tab and select Balances.
 
-![The Balances Tab](/img/altcoins/how-to-buy/binancebalance.png){: .img-middle}
+![The Balances Tab](/img/altcoins/how-to-buy/binancebalance.png){: .img-center}
 
 ## Step 3: Buy xcoin 
 
