@@ -1,13 +1,25 @@
 ---
-title: "test"
+title: "# How to Buy Bitcoin in 2018 – The Complete Beginner's Guide "
 layout: default
 permalink: "/exchanges/"
-seotitle: "5 Best Cryptocurrency Hardware Wallets"
+seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
 ---
 
-# Popular Bitcoin Exchanges 
+# How to Buy Bitcoin in 2018 – The Complete Beginner's Guide 
 
+<h3 class="page-subtitle">
+	April 9th, 2018 by 
+	<img src="/img/profile/close.jpg" class="circle" alt="Headshot">
+	Jacob Tuwiner
+</h3>
 
+Bitcoin is a hot commodity these days – however, buying Bitcoin can be confusing. 
+
+With all of the different exchanges available, it's hard to know which is best for you. 
+
+This guide was created for the new guy. You'll learn about different Bitcoin exchanges, their pros and cons, and how to buy Bitcoin. 
+
+## Popular Bitcoin Exchanges to Consider 
 
 <table class="basic-table">
 	<tr>
