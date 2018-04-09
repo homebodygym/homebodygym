@@ -27,7 +27,7 @@ seotitle: "5 Best Cryptocurrency Hardware Wallets"
 		<td><a target="_blank" class="big-button" href="https://www.coinmama.com/?ref=coin-cohort">Visit Exchange</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://cex.io/r/0/up119618739/0/"><img alt="cex.io" class="table-image" src="/img/exchange/cex-io/logo.png" /></td>
+		<td><a target="_blank" href="https://cex.io/r/0/up119618739/0/"><img alt="cex.io" class="table-image" src="/img/exchange/cex-io/logo.png" /></a></td>
 		<td>CEX.io</td>
 		<td>4/5</td>
 		<td><a target="_blank" class="big-button" href="https://cex.io/r/0/up119618739/0/">Visit Exchange</a></td>
