@@ -19,18 +19,21 @@ This guide will explain everything you need to know in order to buy IOTA, an alt
 
 ## IOTA Overview
 
-IOTA is a cyrptocurrency based on an entirely new distributed ledger known as the Tangle.
+IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
 
-The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This vastly different from the blockchain that Bitcoin and other altcoins utilize.
+The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the blockchain that Bitcoin and other altcoins utilize.
 
 In order to complete a transaction on the IOTA network, that transaction must verify two previous transactions. This small Proof-of-Work renders miners irrevelant. It also gives IOTA a number of unique features:
 
-* The more users on the network, the faster transactions are verified, giving IOTA high scalability
+* The more users on the network, the faster transactions are verified, giving IOTA high scalability – this means transactions are nearly instantaneous
 * No transaction fees
 * More decentralized than any blockchain since it has no miners
 * IOTA utilizes a trinary hash function called Curl, which makes it immune to quantum computers
 
-![The Tangle](/img/altcoins/iota/tangle.png){: .img-middle}
+<figure>
+	<img alt="The Tangle" src="/img/altcoins/iota/tangle.png" class="img-middle">
+	<figcaption>Every transaction in the Tangle verifies two others</figcaption>
+</figure>
 
 ## Step 1: Purchase Bitcoin or Ethereum
 
