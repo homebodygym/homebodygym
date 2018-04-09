@@ -7,6 +7,8 @@ seotitle: "5 Best Cryptocurrency Hardware Wallets"
 
 # Popular Bitcoin Exchanges 
 
+
+
 <table class="basic-table">
 	<tr>
 		<th>Logo</th>
