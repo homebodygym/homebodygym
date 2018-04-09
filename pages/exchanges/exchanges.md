@@ -68,7 +68,15 @@ When it comes to buying Bitcoin, the exchanges listed in the table above are all
 
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
-### Coinbase 
+### [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: target="_blank"} 
+
+Coinbase is heavily focused on simplicity, rendering it a great choice for first-time buyers. Buying bitcoin with Coinbase is quick and simple. 
+
+Their ease-of-use model comes at a cost: they take a 1.49% fee on bank transfers and a 3.99% fee on credit/debit card transfers. These fees add up quickly. 
+
+Coinbase has high transaction limits, though your limits will vary based on your account's standing. Limits can be raised following a request. 
+
+You can earn $10 of *free bitcoin* when you buy $100 or from [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: target="_blank"}.
 
 
 
