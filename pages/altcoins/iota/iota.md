@@ -1,11 +1,36 @@
 ---
-title: "How to Buy IOTA: A Beginner's Guide "
+title: "How to Buy IOTA – A Beginner's Guide "
 layout: default
 permalink: "/altcoins/iota/"
 seotitle: "How to Buy IOTA Quickly with Credit or Debit (2018)"
 ---
 
+# How to Buy IOTA – A Beginner's Guide
+
+A variety of altcoins exist, all with differing purposes and tokens. 
+
+However, they can be difficult to buy or even locate.
+
+Most altcoins can only be bought with other cryptocurrencies, and cannot be directly purchased with fiat currencies.
+
+However, the greater difficulty in buying means that greater profit may be reaped if an obscure altcoin explodes onto the crypto scene.
+
+This guide will explain everything you need to know in order to buy IOTA, an altcoin based on a new technology called the Tangle.
+
 ## IOTA Overview
+
+IOTA is a cyrptocurrency based on an entirely new distributed ledger known as the Tangle.
+
+The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This vastly different from the blockchain that Bitcoin and other altcoins utilize.
+
+In order to complete a transaction on the IOTA network, that transaction must verify two previous transactions. This small Proof-of-Work renders miners irrevelant. It also gives IOTA a number of unique features:
+
+* The more users on the network, the faster transactions are verified, giving IOTA high scalability
+* No transaction fees
+* More decentralized than any blockchain since it has no miners
+* IOTA utilizes a trinary hash function called Curl, which makes it immune to quantum computers
+
+![The Tangle](/img/altcoins/iota/tangle.png){: .img-middle}
 
 ## Step 1: Purchase Bitcoin or Ethereum
 
