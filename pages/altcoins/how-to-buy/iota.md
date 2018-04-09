@@ -35,9 +35,25 @@ In order to complete a transaction on the IOTA network, that transaction must ve
 	<figcaption>Every transaction in the Tangle verifies two others</figcaption>
 </figure>
 
+IOTA aims to become the standardized currency of the [Internet of Things](https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#391e7dc61d09){: target="_blank"} (IoT).
+
+The Internet of Things is the network of objects connected to the internet that collect and exchange data. These objects include computers, phones, cars, smart thermostats, and even smart cities.
+
+In the future, all these devices may exchange data and money between each other. IOTA's ambition is to become the backbone of transactions for the IoT.
+
+![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-middle}
+
 ## Step 1: Purchase Bitcoin or Ethereum
 
+Before buying IOTA, you have to buy Bitcoin or Ethereum first. To learn how to buy Bitcoin, follow our [guide](/bitcoin/how-to-buy/).
+
 ## Step 2: Send to an Exchange
+
+After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
+
+In Binance, hover over the Funds tab and select Balances.
+
+![The Balances Tab](/img/altcoins/how-to-buy/binancebalance.png){: .img-middle}
 
 ## Step 3: Buy xcoin 
 
