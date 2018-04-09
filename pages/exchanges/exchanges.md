@@ -1,5 +1,5 @@
 ---
-title: "# How to Buy Bitcoin in 2018 – The Complete Beginner's Guide "
+title: "How to Buy Bitcoin in 2018 – The Complete Beginner's Guide "
 layout: default
 permalink: "/exchanges/"
 seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
@@ -12,6 +12,8 @@ seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
 	<img src="/img/profile/close.jpg" class="circle" alt="Headshot">
 	Jacob Tuwiner
 </h3>
+
+![Bitcoin Logo](/img/bitcoin-logo.png){: .img-right .img-small}
 
 Bitcoin is a hot commodity these days – however, buying Bitcoin can be confusing. 
 
