@@ -44,11 +44,10 @@ seotitle: "5 Best Cryptocurrency Hardware Wallets"
 		<td>4/5</td>
 		<td><a class="big-button" target="_blank" href="https://localbitcoins.com/?ch=qt5x">Visit Exchange</a></td>
 	</tr>
+</table>
 
 ## Coinbase Overview 
 
 
 
 ## Coinmama Overview 
-
-## 
