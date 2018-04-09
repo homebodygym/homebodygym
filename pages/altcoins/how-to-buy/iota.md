@@ -41,7 +41,7 @@ The Internet of Things is the network of objects connected to the internet that 
 
 In the future, all these devices may exchange data and money between each other. IOTA's ambition is to become the backbone of transactions for the IoT.
 
-![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-center}
+![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-middle}
 
 ## Step 1: Purchase Bitcoin or Ethereum
 
