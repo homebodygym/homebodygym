@@ -93,11 +93,11 @@ In the middle of the screen, select the Market tab. In this tutorial, we will be
 
 ![Using a market order](/img/altcoins/iota/iotamarket.png){: .img-center}
 
-Enter the amount of IOTA you would like to buy. The price you pay per IOTA will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy IOTA.
+Enter the amount of IOTA you would like to buy. The price you pay per IOTA will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy IOTA. Binance will take a .1% fee from your transaction.
 
 ![Buying IOTA](/img/altcoins/iota/iotabuy.png){: .img-center}
 
-
+After buying, you should be able to view your IOTA in the balances tab.
 
 ## Step 4: Securely Store Your IOTA!
 
