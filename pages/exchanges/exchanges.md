@@ -68,9 +68,9 @@ When it comes to buying Bitcoin, the exchanges listed in the table above are all
 
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
-
 <a target="_blank" href="https://www.coinbase.com/join/5967ac4be42b2d0260de144b"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/coinbase/logo.png" /></a>
-<a target="_blank" href="https://www.coinbase.com/join/5967ac4be42b2d0260de144b"><h3>Coinbase</h3></a>
+
+<h3><a target="_blank" href="https://www.coinbase.com/join/5967ac4be42b2d0260de144b">Coinbase</a></h3>
 
 
 Coinbase is heavily focused on simplicity, rendering it a great choice for first-time buyers. Buying bitcoin with Coinbase is quick and simple. 
