@@ -51,9 +51,19 @@ Before buying IOTA, you have to buy Bitcoin or Ethereum first. To learn how to b
 
 After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
 
-In Binance, hover over the Funds tab and select Balances.
+After signing into Binance, look in the upper-right corner, hover over the Funds tab, then select Balances.
 
 ![The Balances Tab](/img/altcoins/how-to-buy/binancebalance.png){: .img-center}
+
+Scroll down to Bitcoin, then click deposit.
+
+![Depositing Bitcoin](/img/altcoins/how-to-buy/depositbitcoin.png){: .img-center}
+
+Copy your Bitcoin deposit address. Be sure to use your own address, and not the one shown in the picture.
+
+![Bitcoin Address](/img/altcoins/how-to-buy/bitcoinaddress.png){: .img-center}
+
+Sign into [Coinbase]()
 
 ## Step 3: Buy xcoin 
 
