@@ -68,18 +68,25 @@ When it comes to buying Bitcoin, the exchanges listed in the table above are all
 
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
-<a target="_blank" href="https://www.coinbase.com/join/5967ac4be42b2d0260de144b"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/coinbase/logo.png" /></a>
+<a target="_blank" href="https://www.coinbase.com/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/coinbase/logo.png" /></a>
 
-<h3><a target="_blank" href="https://www.coinbase.com/join/5967ac4be42b2d0260de144b">Coinbase</a></h3>
+<h3><a target="_blank" href="https://www.coinbase.com/">Coinbase</a></h3>
 
-
-Coinbase is heavily focused on simplicity, rendering it a great choice for first-time buyers. Buying bitcoin with Coinbase is quick and simple. 
+**1.** Coinbase is heavily focused on simplicity, rendering it a great choice for first-time buyers. Buying bitcoin with Coinbase is quick and simple. 
 
 Their ease-of-use model comes at a cost: they take a **1.49%** fee on bank transfers and a **3.99%** fee on credit/debit card transfers. These fees add up quickly. 
 
 Coinbase has high transaction limits, though your limits will vary based on your account's standing. Limits can be raised following a request. 
 
-You can earn $10 of *free bitcoin* when you buy $100 or from [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: target="_blank"}.
+You can earn $10 of *free bitcoin* when you buy more than $100 from Coinbase with this [link](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: target="_blank"}.
+
+For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](/bitcoin/how-to-buy/). 
+
+[Buy Bitcoin](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
 
-## Coinmama Overview 
+<a target="_blank" href="https://cex.io/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/cex-io/logo.png" /></a>
+
+<h3><a target="_blank" href="https://cex.io/">CEX.io</a></h3>
+
+**2.** CEX.io is 
