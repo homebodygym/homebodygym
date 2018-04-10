@@ -63,11 +63,23 @@ Copy your Bitcoin deposit address. Be sure to use your own address, and not the 
 
 ![Bitcoin Address](/img/altcoins/how-to-buy/bitcoinaddress.png){: .img-center}
 
-Sign into [Coinbase]()
+Sign into [Coinbase](){: target="_blank"}, then select the accounts tab.
 
-## Step 3: Buy xcoin 
+![Coinbase Accounts](/img/altcoins/how-to-buy/coinbaseaccounts.png){: .img-center}
 
-## Step 4: Securely Store Your xcoin!
+Under your Bitcoin wallet, select the send button.
+
+![Bitcoin Wallet](/img/altcoins/how-to-buy/coinbasebitcoin.png){: .img-center}
+
+Paste your Binance wallet address in the recipient box. Enter the amount of Bitcoin in dollars that you would like to send, then click continue.
+
+![Sending Bitcoin to Coinbase](/img/altcoins/how-to-buy/coinbasesendbtc.png){: .img-center}
+
+
+
+## Step 3: Buy IOTA 
+
+## Step 4: Securely Store Your IOTA!
 
 ## Should you Buy IOTA?  
 
