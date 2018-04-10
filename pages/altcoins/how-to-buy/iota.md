@@ -73,9 +73,13 @@ Under your Bitcoin wallet, select the send button.
 
 Paste your Binance wallet address in the recipient box. Enter the amount of Bitcoin in dollars that you would like to send, then click continue.
 
-![Sending Bitcoin to Coinbase](/img/altcoins/how-to-buy/coinbasesendbtc.png){: .img-center}
+![Sending Bitcoin from Coinbase](/img/altcoins/how-to-buy/coinbasesendbtc.png){: .img-center}
 
+You will then be prompted to confirm your transaction. You will also be shown the miner fee for your transaction. This fee varies, and does not go to Coinbase, but instead to the miners who verify blocks on Bitcoin's blockchain. If you have 2-factor authentication enabled, you will also be asked to enter your 6-digit verification code.
 
+![Confirming your transaction](/img/altcoins/how-to-buy/coinbaseconfirm.png){: .img-center}
+
+After you send your Bitcoin, it may take some time to arrive. Don't panic immediately if your Bitcoin has left Coinbase but not arrived at Binance. Depending on the Bitcoin network and websites themselves, transfers may take some time to process.
 
 ## Step 3: Buy IOTA 
 
