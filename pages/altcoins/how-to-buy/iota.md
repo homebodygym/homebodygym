@@ -83,6 +83,22 @@ After you send your Bitcoin, it may take some time to arrive. Don't panic immedi
 
 ## Step 3: Buy IOTA 
 
+After your Bitcoin transfers to Binance, then you can purchase your IOTA.
+
+Back on the Balances tab, scroll down to IOTA and click Trade. In the dropdown menu, select IOTA/BTC.
+
+![Using Bitcoin to buy IOTA](/img/altcoins/iota/binanceiota.png){: .img-center}
+
+In the middle of the screen, select the Market tab. In this tutorial, we will be buying IOTA with a market order. There are other types of orders, but market orders are the easiest to use.
+
+![Using a market order](/img/altcoins/iota/iotamarket.png){: .img-center}
+
+Enter the amount of IOTA you would like to buy. The price you pay per IOTA will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy IOTA.
+
+![Buying IOTA](/img/altcoins/iota/iotabuy.png){: .img-center}
+
+
+
 ## Step 4: Securely Store Your IOTA!
 
 ## Should you Buy IOTA?  
