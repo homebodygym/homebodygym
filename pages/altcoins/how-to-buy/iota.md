@@ -7,6 +7,8 @@ seotitle: "How to Buy IOTA Quickly with Credit or Debit (2018)"
 
 # How to Buy IOTA – A Beginner's Guide
 
+[IOTA logo](/img/altcoins/iota){: .img-right .img-small}
+
 A variety of altcoins exist, all with differing purposes and tokens. 
 
 However, they can be difficult to buy or even locate.
