@@ -101,6 +101,18 @@ After buying, you should be able to view your IOTA in the balances tab.
 
 ## Step 4: Securely Store Your IOTA!
 
+Once you buy, your IOTA is stored on the exchange wallet. Although your IOTA has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
+
+If you have IOTA on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your IOTA. Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
+
+The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Unfortunately, IOTA has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
+
+If you download a software wallet onto a device that remains connected to the internet, it is known as "hot storage". Hot storage may be better than an exchange wallet, but if a hacker gains access to your device, they can access your wallet as well.
+
+Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
+
+The IOTA team has released an official software [wallet](https://github.com/iotaledger/wallet/releases){: target="_blank"} that allows you to store your IOTA in hot or cold storage. For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to wallets.
+
 ## Should you Buy IOTA?  
 
 write a bit about the dangers of exchange wallets, explain why hardware wallets 
