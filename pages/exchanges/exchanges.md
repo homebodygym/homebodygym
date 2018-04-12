@@ -84,6 +84,8 @@ You can earn $10 of *free bitcoin* when you buy more than $100 from Coinbase wit
 
 For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](/bitcoin/how-to-buy/). 
 
+<p class="overall">Overall Review:</p><img class="stars" alt="5-stars" src="/img/5-stars.png" /> 
+
 [Buy Bitcoin](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .btn-middle target="_blank"}
 
 
@@ -101,6 +103,10 @@ Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Georgia, Guam, Idaho, Iow
 
 You'll have to undergo a comprehensive application process, sometimes taking 30 minutes to finish. 
 
-On the bright side of things, the exchange has a low 0.2% trading fee, support for many countries, and a trusted reputation. 
+On the bright side of things, the exchange has a low 0.2% trading fee, support for many countries, and a trusted reputation.
 
 [Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .btn-middle}
+
+<a target="_blank" href="https://www.coinmama.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/coinmama/logo.png" /></a>
+
+<h3><a target="_blank" href="https://www.coinmama.com/">Coinmama</a></h3>
