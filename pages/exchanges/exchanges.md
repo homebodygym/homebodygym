@@ -66,6 +66,8 @@ This guide was created for the new guy. You'll learn about different Bitcoin exc
 
 When it comes to buying Bitcoin, the exchanges listed in the table above are all exemplary choices – although, different exchanges' fees, transactions times, and privacy levels vary. 
 
+This page is not meant to teach you how to buy Bitcoin, but rather which exchanges are best. If this is your first time buying, check out our step-by-step buying guide [here](/bitcoin/how-to-buy/). 
+
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
 <a target="_blank" href="https://www.coinbase.com/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/coinbase/logo.png" /></a>
@@ -82,7 +84,7 @@ You can earn $10 of *free bitcoin* when you buy more than $100 from Coinbase wit
 
 For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](/bitcoin/how-to-buy/). 
 
-[Buy Bitcoin](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
+[Buy Bitcoin](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .btn-middle target="_blank"}
 
 
 <a target="_blank" href="https://cex.io/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/cex-io/logo.png" /></a>
@@ -101,5 +103,4 @@ You'll have to undergo a comprehensive application process, sometimes taking 30 
 
 On the bright side of things, the exchange has a low 0.2% trading fee, support for many countries, and a trusted reputation. 
 
-[Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .big-button}
-
+[Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .btn-middle}
