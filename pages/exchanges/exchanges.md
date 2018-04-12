@@ -45,7 +45,7 @@ This guide was created for the new guy. You'll learn about different Bitcoin exc
 	<tr>
 		<td><a target="_blank" href="https://cex.io/r/0/up119618739/0/"><img alt="cex.io" class="table-image" src="/img/exchange/cex-io/logo.png" /></a></td>
 		<td>CEX.io</td>
-		<td>4/5</td>
+		<td>3.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://cex.io/r/0/up119618739/0/">Visit Exchange</a></td>
 	</tr>
 	<tr>
@@ -89,4 +89,17 @@ For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](
 
 <h3><a target="_blank" href="https://cex.io/">CEX.io</a></h3>
 
-**2.** CEX.io is 
+**2.** CEX.io is another viable option for those looking to buy Bitcoin with their credit or debit card. 
+
+They have a good track record, and are generally trusted by the community. Users can access the exchange from some parts of the United States, Europe, and parts of South America. 
+
+CEX.io does *not* support the following US states: 
+
+Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Georgia, Guam, Idaho, Iowa, Kansas, Louisiana, Maryland, Michigan, Mississippi, Nebraska, New Hampshire, New Jersey, North Carolina, North Dakota, Ohio, Oregon, Tennessee, Texas, U.S. Virgin Islands, Vermont, Virginia, Washington.
+
+You'll have to undergo a comprehensive application process, sometimes taking 30 minutes to finish. 
+
+On the bright side of things, the exchange has a low 0.2% trading fee, support for many countries, and a trusted reputation. 
+
+[Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .big-button}
+
