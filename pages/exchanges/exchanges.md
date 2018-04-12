@@ -84,8 +84,6 @@ You can earn $10 of *free bitcoin* when you buy more than $100 from Coinbase wit
 
 For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](/bitcoin/how-to-buy/). 
 
-<p class="overall">Overall Review:</p><img class="stars" alt="5-stars" src="/img/5-stars.png" /> 
-
 [Buy Bitcoin](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .btn-middle target="_blank"}
 
 
