@@ -103,8 +103,50 @@ You'll have to undergo a comprehensive application process, sometimes taking 30 
 
 On the bright side of things, the exchange has a low 0.2% trading fee, support for many countries, and a trusted reputation.
 
-[Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .btn-middle}
+[Buy Bitcoin](https://cex.io/r/0/up119618739/0/){: .btn-middle target="_blank"}
 
 <a target="_blank" href="https://www.coinmama.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/coinmama/logo.png" /></a>
 
 <h3><a target="_blank" href="https://www.coinmama.com/">Coinmama</a></h3>
+
+**3.** Coinmama is a popular and reputable exchange, allowing you to purchase Bitcoin with your credit or debit card. However, they charge a 6% fee, which is high among Bitcoin exchanges. 
+
+Thankfully, Coinmama has high transaction limits, up to $5,000 of Bitcoin per day or $20,000 of Bitcoin per month. You'll receive your Bitcoin in a matter of minutes. 
+
+Coinmama is supported in nearly all countries without sanctions on cryptocurrency – it is also available to residents of most US states, including: 
+
+Arizona California Colorado Florida Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maryland Michigan Missouri Montana Nevada New Jersey New Mexico North Carolina Pennsylvania South Carolina Tennessee Texas Virginia Wisconsin
+
+Coinmama is a reliable exchange with an easy-to-use platform. 
+
+[Buy Bitcoin](https://www.coinmama.com/?ref=coin-cohort){: .btn-middle target="_blank"}
+
+<a target="_blank" href="https://changelly.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/changelly/logo.png" /></a>
+
+<h3><a target="_blank" href="https://changelly.com/">Changelly</a></h3>
+
+**4.** Based in Prague, Changelly allows you to trade without registering at any exchange – no verification is needed. 
+
+The platform uses bots to make bids on popular exchange platforms, making bids and asks to generate the best rates on trading pairs. 
+
+Changelly accepts virtually all cryptocurrencies as payment, in addition to credit and debit cards – however, they charge high fees on credit/debit card purchases. 
+
+Unlike the previous exchanges on this list, Changelly allows you to seamlessly switch between Bitcoin and altcoins. 
+
+[Buy Bitcoins](https://changelly.com/?ref_id=1065f28fb00d){: .btn-middle target="_blank"}
+
+<a target="_blank" href="https://localbitcoins.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/local-bitcoins/logo.png" /></a>
+
+<h3><a target="_blank" href="https://localbitcoins.com/">LocalBitcoins</a></h3>
+
+**5.** Upon inception, LocalBitcoins was criticized for its legitamcy – now, it has a proven track record as a safe and reliable peer-to-peer exchange. 
+
+Although the exchange itself is secure, users must be careful of other users on the exchange. It is kind of like an eBay of crypto. The platform itself is solid, but you should check the reputation of those you are dealing with. 
+
+Most problems can be avoided by checking sellers' ratings and avoiding those without a positive reputation. 
+
+LocalBitcoins does not require ID of any kind, rendering it an anonymous exchange. Buyers and sellers are free to use the payment method of their choosing. 
+
+The platform is supported nearly worldwide. 
+
+[Buy Bitcoins](https://localbitcoins.com/?ch=qt5x){: .btn-middle target="_blank"}
