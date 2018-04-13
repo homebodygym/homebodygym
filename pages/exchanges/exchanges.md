@@ -121,7 +121,7 @@ Coinmama is a reliable exchange with an easy-to-use platform.
 
 [Buy Bitcoin](https://www.coinmama.com/?ref=coin-cohort){: .btn-middle target="_blank"}
 
-<a target="_blank" href="https://changelly.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/changelly/logo.png" /></a>
+<a target="_blank" href="https://changelly.com/"><img class="small-title-img" alt="changelly logo" src="/img/exchange/changelly/logo.jpg" /></a>
 
 <h3><a target="_blank" href="https://changelly.com/">Changelly</a></h3>
 
@@ -135,7 +135,7 @@ Unlike the previous exchanges on this list, Changelly allows you to seamlessly s
 
 [Buy Bitcoins](https://changelly.com/?ref_id=1065f28fb00d){: .btn-middle target="_blank"}
 
-<a target="_blank" href="https://localbitcoins.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/local-bitcoins/logo.png" /></a>
+<a target="_blank" href="https://localbitcoins.com/"><img class="small-title-img" alt="local-bitcoins logo" src="/img/exchange/local-bitcoins/logo.png" /></a>
 
 <h3><a target="_blank" href="https://localbitcoins.com/">LocalBitcoins</a></h3>
 
