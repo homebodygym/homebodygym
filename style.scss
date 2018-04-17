@@ -482,10 +482,11 @@ color: #4183c4;
     background: #666 none repeat scroll 0 0;
     color: white;
     content: "Page Index";
-    display: block;
+    display: inline-block;
     font-weight: bold;
     padding: 1px 6px;
     text-align: center;
+    position: absolute;
 }
 
 #markdown-toc, .toc_list {
@@ -513,10 +514,4 @@ color: #4183c4;
 #markdown-toc li li, #markdown-toc li ul, .toc_list li li, .toc_list li ul {
     border: 0 none;
     padding-left: 7px;
-}
-
-.toc-container {
-  display: inline-block;
-  margin-bottom: 10px;
-  padding: auto;
 }
