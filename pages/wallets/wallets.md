@@ -4,8 +4,6 @@ permalink: "/wallets/"
 seotitle: "5 Best Cryptocurrency Wallets: Hardware, Software, & More! (2018)"
 ---
 
-# The Best Cryptocurrency Wallets 
-
 When it comes to storing your cryptocurrency, there are plenty of options available to you. 
 
 If you've expanded your portfolio into the altcoin market, you might be storing some of your tokens on exchanges. This method works, but it is *not recommended!* 
