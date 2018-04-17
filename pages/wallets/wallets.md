@@ -22,10 +22,10 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=ledger+blue+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="ledger-blue" src="/img/wallets/ledger-blue.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=ledger+blue+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Ledger Blue</a></td>
+		<td><a target="_blank" href="https://amzn.to/2JVuMpR"><img class="table-image" alt="ledger-blue" src="/img/wallets/ledger-blue.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JVuMpR">Ledger Blue</a></td>
 		<td><b>A+</b></td>
-		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=ledger+blue+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2JVuMpR">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2H7TIsp"><img class="table-image" alt="ledger-nano-s" src="/img/wallets/ledger-nano-s.png" /></a></td>
@@ -44,8 +44,20 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 ### [Ledger Nano S](https://amzn.to/2H7TIsp){: target="_blank"} - $99 
 ![Ledger Nano S](/img/wallets/ledger-nano-s.png){: .img-right .img-small}
 
-The [Ledger Nano S](https://amzn.to/2H7TIsp){: target="_blank"} is a fantastic hardware wallet. Despite being extremely cheap, the Nano S can store a multitude of different tokens. Click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"} for the complete list of supported cryptocurrencies. 
+**1.** The [Ledger Nano S](https://amzn.to/2H7TIsp){: target="_blank"} is a fantastic hardware wallet. Despite being extremely cheap, the Nano S can store a multitude of different tokens. Click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"} for the complete list of supported cryptocurrencies. 
 
 The Nano S is a safe way to store your crypto portfolio. It requires a 24 word passphrase to gain access to its contents.  
 
 [Read our Review](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
+
+### [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} - $300
+![Ledger Blue](/img/wallets/ledger-blue.png){: .img-right .img-small}
+
+<font color="red">NOTE: Ledger Blue prices are currently incredibly high (an upwards of $1,000). Waiting to buy could save you a lot of money – otherwise, buy a Nano S or Trezor wallet!</font>
+
+The [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} is significantly more expensive than the Nano S. Ledger has implemented many different security features, including a 24 word passphrase. 
+
+Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incredibly user friendly hardware wallet. In addition, it can support many different tokens. For the full list of supported cryptocurrencies, click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"}. 
+
+[Read our Review](/wallets/ledger-blue-review/){: .btn-middle}
+
