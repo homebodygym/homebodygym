@@ -120,6 +120,9 @@ Bitcoin can be bought on a variety of exchanges, including Coinbase, Gemini, Kra
 
 ## Conclusion 
 
+* TOC
+{:toc}
+
 Bitcoin was the first cryptocurrency ever created, and it began a digital currency revolution. The introduction of a decentralized, immutable, and pseudoanonymous currency has many applications, and its potential is only just starting to be realized.
 
 The blockchain was also first successfully implemented in Bitcoin. Bitcoin has spawned many competitors, and driven innovation in the financial technology sector. 
@@ -127,6 +130,3 @@ The blockchain was also first successfully implemented in Bitcoin. Bitcoin has s
 Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
 
 Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
-
-* TOC
-{:toc}
