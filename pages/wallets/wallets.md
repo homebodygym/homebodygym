@@ -34,10 +34,10 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2H7TIsp">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=trezor+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="trezor-wallet" src="/img/wallets/trezor.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=trezor+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Trezor</a></td>
+		<td><a target="_blank" href="https://amzn.to/2HalWD1"><img class="table-image" alt="trezor-wallet" src="/img/wallets/trezor.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2HalWD1">TREZOR</a></td>
 		<td><b>A</b></td>
-		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=trezor+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2HalWD1">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -59,3 +59,15 @@ Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incred
 
 [Read our Review](/wallets/ledger-blue-review/){: .btn-middle}
 
+### [TREZOR Wallet](https://amzn.to/2HalWD1){: target="_blank"} - $55 
+![TREZOR Wallet](/img/wallets/trezor.png){: .img-right .img-small}
+
+[TREZOR](https://amzn.to/2HalWD1){: target="_blank"} is the cheapest hardware wallet on our list. Unlike the previous two, TREZOR can only store Bitcoin. 
+
+The wallet can sign transactions, and you can safely connect it to a malware infected computer. 
+
+Like most hardware wallets, TREZOR generates a 24 word recovery phrase – users have the option of setting a custom password for a total of 25 words. However, if you forget your password, the wallet will not be recoverable. 
+
+Overall, TREZOR is a great wallet, especially for the low price. For a mere $55, TREZOR is a great way to securely store your Bitcoin. 
+
+[Read our Review](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
