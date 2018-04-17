@@ -48,4 +48,4 @@ The [Ledger Nano S](https://amzn.to/2H7TIsp){: target="_blank"} is a fantastic h
 
 The Nano S is a safe way to store your crypto portfolio. It requires a 24 word passphrase to gain access to its contents.  
 
-[Read our Review](https://amzn.to/2H7TIsp){: target="_blank"}
+[Read our Review](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
