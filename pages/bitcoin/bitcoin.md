@@ -168,11 +168,11 @@ The Silk Road was later shut down, but it was one of first websites to display t
 On April 23, 2011, Nakamoto sent an email to Bitcoin Core developer Mike Hearn, saying that "I've moved on to other things." After this, Nakamoto disappeared from the scene. Since then, many have claimed to be him, and many others have been speculated to be the creator of Bitcoin. 
 
 In the following years, Bitcoin continued to grow and exchanges began to pop up. To this day though, no one knows the true identity of the individual or individuals behind Bitcoin. 
-
-## Conclusion 
-
+ 
+ ## Conclusion
 * TOC
 {:toc}
+
 
 Bitcoin was the first cryptocurrency ever created, and it began a digital currency revolution. The introduction of a decentralized, immutable, and pseudoanonymous currency has many applications, and its potential is only just starting to be realized.
 
