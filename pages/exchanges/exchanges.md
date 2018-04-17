@@ -150,3 +150,6 @@ LocalBitcoins does not require ID of any kind, rendering it an anonymous exchang
 The platform is supported nearly worldwide. 
 
 [Buy Bitcoins](https://localbitcoins.com/?ch=qt5x){: .btn-middle target="_blank"}
+
+* TOC
+{:toc}

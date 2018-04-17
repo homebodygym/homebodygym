@@ -126,3 +126,6 @@ write a bit about the dangers of exchange wallets, explain why hardware wallets
 <a target="_blank" href="youtube.com">click here for youtube</a> 
 
 [click here for youtube](youtube.com){: target="_blank"}
+
+* TOC
+{:toc}
