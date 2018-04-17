@@ -53,8 +53,6 @@ The Nano S is a safe way to store your crypto portfolio. It requires a 24 word p
 ### [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} - $300
 ![Ledger Blue](/img/wallets/ledger-blue.png){: .img-right .img-small}
 
-<font color="red">NOTE: Ledger Blue prices are currently incredibly high (an upwards of $1,000). Waiting to buy could save you a lot of money – otherwise, buy a Nano S or Trezor wallet!</font>
-
 The [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} is significantly more expensive than the Nano S. Ledger has implemented many different security features, including a 24 word passphrase. 
 
 Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incredibly user friendly hardware wallet. In addition, it can support many different tokens. For the full list of supported cryptocurrencies, click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"}. 
