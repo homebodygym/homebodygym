@@ -169,7 +169,7 @@ On April 23, 2011, Nakamoto sent an email to Bitcoin Core developer Mike Hearn, 
 
 In the following years, Bitcoin continued to grow and exchanges began to pop up. To this day though, no one knows the true identity of the individual or individuals behind Bitcoin. 
  
- ## Conclusion
+## Conclusion
 * TOC
 {:toc}
 
