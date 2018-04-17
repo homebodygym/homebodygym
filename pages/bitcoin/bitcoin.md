@@ -17,15 +17,9 @@ seotitle: "How to Buy Bitcoin with Credit or Debit Easily (2018)"
 
 The cryptocurrency revolution has taken the world by storm – in fact, Bitcoin exchanges such as Coinbase have more registered users than stock brokerage Charles Schwab. 
 
-Although it can be confusing, understanding Bitcoin and cryptocurrencies in general is incredibly important. Blockchain technology is changing the way we live. If you're looking to expand your portfolio by investing in the 21st century's hottest new commodity, you've come to the right place. 
+Although it can be confusing, understanding Bitcoin and cryptocurrencies in general is incredibly important. Blockchain technology is changing the way we live. 
 
-This guide is designed to teach you how to buy Bitcoin quickly and easily, even if it is your first time. After that, we'll be taking a closer look at the technology behind Bitcoin. 
-
-## How to Buy 
-
-Bitcoin can be bought on a variety of [exchanges](/exchanges/), including Coinbase, Gemini, Coinmama, and many others.
-
-![Worldwide](/img/bitcoin/worldwide.jpg){: .img-center}
+If you're looking to expand your portfolio by investing in the 21st century's hottest new commodity, you've come to the right place. 
 
 ## How to Buy Bitcoin
 
@@ -177,6 +171,9 @@ In the following years, Bitcoin continued to grow and exchanges began to pop up.
 
 ## Conclusion 
 
+* TOC
+{:toc}
+
 Bitcoin was the first cryptocurrency ever created, and it began a digital currency revolution. The introduction of a decentralized, immutable, and pseudoanonymous currency has many applications, and its potential is only just starting to be realized.
 
 The blockchain was also first successfully implemented in Bitcoin. Bitcoin has spawned many competitors, and driven innovation in the financial technology sector. 
@@ -184,6 +181,3 @@ The blockchain was also first successfully implemented in Bitcoin. Bitcoin has s
 Blockchain technology itself may have even further-reaching ramifications, as it could drastically alter fields like supply-chain management, information technology, insurance, and asset management, to name a few.
 
 Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
-
-* TOC
-{:toc}
