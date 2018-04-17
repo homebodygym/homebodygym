@@ -179,16 +179,7 @@ Blockchain technology itself may have even further-reaching ramifications, as it
 
 Regardless of the value of Bitcoin, its impact cannot be understated. The technology and principles behind Bitcoin and the blockchain will change the world, and impact humanity for the better. And you can't put a price on the betterment of society. 
 
+<div class="toc-container">
 * TOC
 {:toc}
-
-
-
-
-
-
-
-
-
-
-
+</div>
