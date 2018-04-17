@@ -18,12 +18,10 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 
 <table class="basic-table">
 	<tr>
-		<th>
-			<td>PIC</td>
-			<td>Wallet</td>
-			<td>Security Score</td>
-			<td>Shop</td>
-		</th>
+		<th>PIC</th>
+		<th>Wallet</th>
+		<th>Security Score</th>
+		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575386472&toolid=10001&campid=5338296716&customid=&icep_uq=ledger+blue+wallet&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="ledger-blue" src="/img/wallets/ledger-blue.png" /></a></td>
