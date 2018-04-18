@@ -23,7 +23,7 @@ This guide will explain everything you need to know in order to buy IOTA, an alt
 
 IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
 
-The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the blockchain that Bitcoin and other altcoins utilize.
+The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp){: target="_blank"} that [Bitcoin](/bitcoin/) and other altcoins utilize.
 
 In order to complete a transaction on the IOTA network, that transaction must verify two previous transactions. This small Proof-of-Work renders miners irrevelant. It also gives IOTA a number of unique features:
 
@@ -135,7 +135,29 @@ IOTA has a large and active community. They post regular updates on their [blog]
 
 IOTA's community size shows that they have many people interested in their technology and token.
 
-token value, target market, roadmap, 
+### IOTA and the Tangle
+
+Unlike almost all other coins, IOTA does not use a blockchain. It instead uses the Tangle. The Tangle is a directed acyclic graph (DAG), which is a specific type of data structure. Every time a transaction occurs on the Tangle, it must verify two previous transactions through a small amount of proof-of-work.
+
+This solves many problems that many other cryptocurrencies. Because each transaction verifies others, there are no transaction fees. Transactions occur very rapidly since there is no need to wait for blocks to be mined. Additionally, as more participants join the network, it becomes not slower, but faster instead.
+
+### The Rise of the Internet of Things
+
+In the future, IOTA aims to become the currency for the Internet of Things. The team envisions a network of internet connected devices exchanging data and micro-payments through the Tangle. While this may seem like a far-off future, more and more devices are becoming internet connected all the time.
+
+[Smart cities](https://internetofthingsagenda.techtarget.com/definition/smart-city){: target="_blank"} are cities that use information and communication technologies to manage resources and improve efficiency, and they are on the horizon. Other [examples](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/){: target="_blank"} include smart homes, wearables, and smart retail.
+
+IOTA has already released a [Data Marketplace](https://data.iota.org/){: target="_blank"}, where users can purchase access to a variety of data sensors. This pilot system demonstrates the usefulness that IOTA brings to the Internet of Things.
+
+### Conclusion
+
+IOTA is a unique cryptocurrency with an ambitious goal. The Tangle architecture is a novel type of data ledger, and it brings many impressive benefits. However, it is not proven like blockchain. It is still very new, and issues may arise with it in the future.
+
+IOTA's goal is to become the core of the IoT. While currently the IoT is not very developed, in the future it may become an integral part of our lives. IOTA is betting on the future of information and technology today.
+
+Even among cryptocurrencies, IOTA is novel. It's architecture and goals are unproven, but very ambitious. IOTA is a somewhat risky buy, but if its vision becomes reality, the reward for investors will be substantial.
+
+Please note that we are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.
 
 <img alt="IOTA Logo" class="img-small img-right" src="/img/altcoins/iota/iota-logo.png" />
 
