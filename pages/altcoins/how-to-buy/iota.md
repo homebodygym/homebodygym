@@ -109,6 +109,8 @@ If you have IOTA on an exchange wallet, they will control the private keys. This
 
 The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Unfortunately, IOTA has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
 
+![Ledger Nano S Hardware Wallet](/img/wallets/ledger-nano-s.png){: .img-center}
+
 If you download a software wallet onto a device that remains connected to the internet, it is known as "hot storage". Hot storage may be better than an exchange wallet, but if a hacker gains access to your device, they can access your wallet as well.
 
 Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
@@ -146,6 +148,8 @@ This solves many problems that many other cryptocurrencies. Because each transac
 In the future, IOTA aims to become the currency for the Internet of Things. The team envisions a network of internet connected devices exchanging data and micro-payments through the Tangle. While this may seem like a far-off future, more and more devices are becoming internet connected all the time.
 
 [Smart cities](https://internetofthingsagenda.techtarget.com/definition/smart-city){: target="_blank"} are cities that use information and communication technologies to manage resources and improve efficiency, and they are on the horizon. Other [examples](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/){: target="_blank"} include smart homes, wearables, and smart retail.
+
+![Smart Cities Diagram](/img/altcoins/iota/smart-cities.png){: .img-center}
 
 IOTA has already released a [Data Marketplace](https://data.iota.org/){: target="_blank"}, where users can purchase access to a variety of data sensors. This pilot system demonstrates the usefulness that IOTA brings to the Internet of Things.
 
