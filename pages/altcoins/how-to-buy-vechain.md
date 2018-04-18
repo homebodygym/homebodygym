@@ -29,11 +29,11 @@ If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-u
 
 You cannot directly purchase Vechain with USD. In order to buy, you must first purchase another cryptocurrency with USD, then trade it for Vechain.
 
-### Step 1: Purchase Bitcoin or Ethereum
+### Before Buying Vechain: Purchase Bitcoin or Ethereum
 
 Before buying Vechain, you have to buy Bitcoin or Ethereum first. To learn how to buy Bitcoin, follow our [guide](/bitcoin/).
 
-### Step 2: Send to an Exchange
+### Step 1: Send to an Exchange
 
 After buying Bitcoin, you need to send it to an exchange that trades Vechain. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
 
@@ -67,9 +67,9 @@ You will then be prompted to confirm your transaction. You will also be shown th
 
 After you send your Bitcoin, it may take some time to arrive. Don't panic immediately if your Bitcoin has left Coinbase but not arrived at Binance. Depending on the Bitcoin network and websites themselves, transfers may take some time to process.
 
-### Step 3: Buy Vechain 
+### Step 2: Buy Vechain 
 
-After your Bitcoin transfers to Binance, then you can purchase your IOTA.
+After your Bitcoin transfers to Binance, then you can purchase your Vechain.
 
 Back on the Balances tab, scroll down to Vechain and click Trade. In the dropdown menu, select VEN/BTC.
 
@@ -79,27 +79,25 @@ In the middle of the screen, select the Market tab. In this tutorial, we will be
 
 ![Using a market order](/img/altcoins/vechain/vechainmarket.png){: .img-center}
 
-Enter the amount of Vechain you would like to buy. The price you pay per Vechain will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy Vechain. Binance will take a .1% fee from your transaction.
+Enter the amount of Vechain you would like to buy. The price you pay per Vechain will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy VEN. Binance will take a .1% fee from your transaction.
 
 ![Buying Vechain](/img/altcoins/vechain/vechainbuy.png){: .img-center}
 
 After buying, you should be able to view your Vechain in the balances tab.
 
-### Step 4: Securely Store Your IOTA!
+### Step 3: Safely Store Your Vechain!
 
-Once you buy, your IOTA is stored on the exchange wallet. Although your IOTA has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
+Once you buy, your Vechain is stored on the exchange wallet. Although your Vechain has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
 
-If you have IOTA on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your IOTA. Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
+If you have Vechain on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your Vechain. Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
 
-The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Unfortunately, IOTA has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
+The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Some cryptocurrencies are unable to be stored in hardware wallets, but Vechain is hardware wallet compatible.
 
-![Ledger Nano S Hardware Wallet](/img/wallets/ledger-nano-s.png){: .img-center}
+![Trezor Hardware Wallet](/img/wallets/trezor.png){: .img-center}
 
-If you download a software wallet onto a device that remains connected to the internet, it is known as "hot storage". Hot storage may be better than an exchange wallet, but if a hacker gains access to your device, they can access your wallet as well.
+Vechain is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
-Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
-
-The IOTA team has released an official software [wallet](https://github.com/iotaledger/wallet/releases){: target="_blank"} that allows you to store your IOTA in hot or cold storage. For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to wallets.
+For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to cryptocurrency wallets.
 
 ## Should you Buy Vechain?  
 
