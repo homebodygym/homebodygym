@@ -71,3 +71,19 @@ Like most hardware wallets, TREZOR generates a 24 word recovery phrase – users
 Overall, TREZOR is a great wallet, especially for the low price. For a mere $55, TREZOR is a great way to securely store your Bitcoin. 
 
 [Read our Review](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
+
+## Why Should You Buy a Hardware Wallet? 
+
+We highly recommend purchasing a hardware wallet to ensure the highest level of security for your crypto portfolio. 
+
+Hardware wallets provide a host of benefits, including: 
+
+1. Your private keys are never exposed to your computer – you can connect them to a PC that has been infected with malware without worrying about revealing any sensitive information 
+
+2. The wallet requires you to confirm a transaction on your device, rather than your computer. This prevents someone from remotely stealing your tokens. 
+
+3. Hardware wallets are encrypted with a pin number – in most cases, they require a 24 word recovery phrase to gain access to their contents
+
+4. Most companies' software that produce hardware wallets use open source code. This means users can validate the wallet's integrity 
+
+## Software Wallets 
