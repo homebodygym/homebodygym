@@ -7,15 +7,16 @@ seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 
 # How to Buy Vechain – A Beginner's Guide
 
+<h3 class="page-subtitle">
+    April 19th, 2018 by 
+    <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano
+</h3>
+
 ![Vechain logo](/img/altcoins/vechain/vechain-logo.png){: .img-right .img-small}
 
-A variety of altcoins exist, all with differing purposes and tokens. 
+Besides Bitcoin and Ethereum, there are many unique altcoins and tokens.
 
-However, they can be difficult to buy or even locate.
-
-Most altcoins can only be bought with other cryptocurrencies, and cannot be directly purchased with fiat currencies.
-
-However, the greater difficulty in buying means that greater profit may be reaped if an obscure altcoin explodes onto the crypto scene.
+They all serve 
 
 **In this guide, you will learn about Vechain, and how to buy and store it.**
 
@@ -89,7 +90,9 @@ After buying, you should be able to view your Vechain in the balances tab.
 
 Once you buy, your Vechain is stored on the exchange wallet. Although your Vechain has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
 
-If you have Vechain on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your Vechain. Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
+If you have Vechain on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your Vechain. 
+
+Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
 
 The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Some cryptocurrencies are unable to be stored in hardware wallets, but Vechain is hardware wallet compatible.
 
@@ -97,7 +100,7 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 
 Vechain is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
-For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to cryptocurrency wallets.
+For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
 
 ## Should you Buy Vechain?  
 
