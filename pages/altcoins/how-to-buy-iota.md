@@ -19,6 +19,8 @@ However, the greater difficulty in buying means that greater profit may be reape
 
 **This guide will explain everything you need to know in order to buy IOTA**, an altcoin based on a new technology called the Tangle.
 
+If you'd like to get directly to buying, click [here](#how-to-buy-iota-with-usd).
+
 ## IOTA Overview
 
 IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
