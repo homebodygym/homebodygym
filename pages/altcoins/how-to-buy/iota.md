@@ -117,7 +117,25 @@ The IOTA team has released an official software [wallet](https://github.com/iota
 
 ## Should you Buy IOTA?  
 
-write a bit about the dangers of exchange wallets, explain why hardware wallets 
+ Now that you've read this guide, you know how to buy cryptocurrency, exchange it for IOTA, then securely store your IOTA in a wallet. But the question is, should you buy IOTA?
+
+In order to understand whether or not you should buy a coin, you should understand more about the coin, how it works, its team, and its future plans. This section of the guide will inform you more thoroughly about IOTA to help you decide if it is a coin you'd like to buy.
+
+### The Team
+
+IOTA has 4 founders, David Sønstebø, Sergey Ivancheglo, Dominik Schiener, and Serguei Popov.
+
+Sønstebø is an entrepreneur who is heavily involved in the Internet-of-Things, blockchain technologies, and Smart Cities. Ivancheglo is a Bitcoin early adopter and the lead developer of NXT. Schiener is involved with several blockchain and smart contract projects and Popov has a Ph.D in math and is currently a professor.
+
+The rest of the [team](http://untangled.world/iota-founders/){: target="_blank"} includes more than a dozen developers and designers with backgrounds in computer science, engineering, and electronics, among others. The team also has half a dozen researchers and mathematicians. The team is backed by the IOTA Foundation, a collection of othe notable individuals. 
+
+### Community
+
+IOTA has a large and active community. They post regular updates on their [blog](https://blog.iota.org/){: target="_blank"}. Their Twitter [page](https://twitter.com/iotatoken){: target="_blank"} has 110,000 followers. Their reddit [page](https://www.reddit.com/r/Iota/){: target="_blank"} also has over 100,000 viewers. They also have a discord and a large telegram [group](https://telegram.me/iotatangle){: target="_blank"}.
+
+IOTA's community size shows that they have many people interested in their technology and token.
+
+token value, target market, roadmap, 
 
 <img alt="IOTA Logo" class="img-small img-right" src="/img/altcoins/iota/iota-logo.png" />
 
