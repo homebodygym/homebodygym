@@ -1,8 +1,8 @@
 ---
 title: "How to Buy IOTA – A Beginner's Guide "
 layout: default
-permalink: "/altcoins/how-to-buy/iota/"
-seotitle: "How to Buy IOTA Quickly with Credit or Debit (2018)"
+permalink: "/altcoins/how-to-buy-iota/"
+seotitle: "3 Easy Steps to Buy IOTA Quickly in 2018"
 ---
 
 # How to Buy IOTA – A Beginner's Guide
@@ -45,13 +45,18 @@ In the future, all these devices may exchange data and money between each other.
 
 ![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-middle}
 
-## Step 1: Purchase Bitcoin or Ethereum
+## How to Buy IOTA with USD 
 
-Before buying IOTA, you have to buy Bitcoin or Ethereum first. To learn how to buy Bitcoin, follow our [guide](/bitcoin/how-to-buy/).
+There is no way to purchase IOTA directly with USD. Instead, you have to purchase another cryptocurrency with USD, then trade it for IOTA. 
 
-## Step 2: Send to an Exchange
+### Before Buying IOTA: Purchase Bitcoin or Ethereum
 
-After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
+Before buying IOTA, you have to buy Bitcoin or Ethereum first. If you live in the US or one of [these countries](https://www.coinbase.com/global?locale=en-US){: target="_blank"}, you can buy Bitcoin through our step-by-step [guide](/bitcoin/). 
+
+
+### Step 1: Send to an Exchange
+
+After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. Binance supports buying IOTA in the US and many other countries. 
 
 After signing into Binance, look in the upper-right corner, hover over the Funds tab, then select Balances.
 
@@ -83,7 +88,7 @@ You will then be prompted to confirm your transaction. You will also be shown th
 
 After you send your Bitcoin, it may take some time to arrive. Don't panic immediately if your Bitcoin has left Coinbase but not arrived at Binance. Depending on the Bitcoin network and websites themselves, transfers may take some time to process.
 
-## Step 3: Buy IOTA 
+### Step 2: Buy IOTA 
 
 After your Bitcoin transfers to Binance, then you can purchase your IOTA.
 
@@ -101,17 +106,28 @@ Enter the amount of IOTA you would like to buy. The price you pay per IOTA will 
 
 After buying, you should be able to view your IOTA in the balances tab.
 
-## Step 4: Securely Store Your IOTA!
+### Step 3: Securely Store Your IOTA!
 
-Once you buy, your IOTA is stored on the exchange wallet. Although your IOTA has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
+Once you buy, your IOTA is stored on the exchange wallet. Although your IOTA has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. 
 
-If you have IOTA on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your IOTA. Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
+Each private key is unique to one wallet, and allows access to the contents of that wallet.  
 
-The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Unfortunately, IOTA has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
+If you have IOTA on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your IOTA. 
 
-![Ledger Nano S Hardware Wallet](/img/wallets/ledger-nano-s.png){: .img-center}
+Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
 
-If you download a software wallet onto a device that remains connected to the internet, it is known as "hot storage". Hot storage may be better than an exchange wallet, but if a hacker gains access to your device, they can access your wallet as well.
+The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. 
+
+Unfortunately, IOTA currently has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
+
+<figure>
+	<img alt="ledger nano s" class="img-center" src="/img/wallets/ledger-nano-s.png" />
+	<figcaption>This hardware wallet is called the Ledger Nano S. It is one of the most secure forms of storage for cryptocurrencies.</figcaption>
+</figure>
+
+If you download a software wallet onto a device that remains connected to the internet, it is known as "hot storage". 
+
+Hot storage may be better than an exchange wallet, but if a hacker gains access to your device, they can access your wallet as well.
 
 Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
 
@@ -121,15 +137,21 @@ The IOTA team has released an official software [wallet](https://github.com/iota
 
  Now that you've read this guide, you know how to buy cryptocurrency, exchange it for IOTA, then securely store your IOTA in a wallet. But the question is, should you buy IOTA?
 
-In order to understand whether or not you should buy a coin, you should understand more about the coin, how it works, its team, and its future plans. This section of the guide will inform you more thoroughly about IOTA to help you decide if it is a coin you'd like to buy.
+In order to understand whether or not you should buy a coin, you should understand more about the coin, how it works, its team, and its future plans. 
+
+This section of the guide will inform you more thoroughly about IOTA to help you decide if it is a coin you'd like to buy.
 
 ### The Team
 
 IOTA has 4 founders, David Sønstebø, Sergey Ivancheglo, Dominik Schiener, and Serguei Popov.
 
+![Development Team](/img/altcoins/iota/devs.jpg){: .img-center}
+
 Sønstebø is an entrepreneur who is heavily involved in the Internet-of-Things, blockchain technologies, and Smart Cities. Ivancheglo is a Bitcoin early adopter and the lead developer of NXT. Schiener is involved with several blockchain and smart contract projects and Popov has a Ph.D in math and is currently a professor.
 
-The rest of the [team](http://untangled.world/iota-founders/){: target="_blank"} includes more than a dozen developers and designers with backgrounds in computer science, engineering, and electronics, among others. The team also has half a dozen researchers and mathematicians. The team is backed by the IOTA Foundation, a collection of othe notable individuals. 
+The rest of the [team](http://untangled.world/iota-founders/){: target="_blank"} includes more than a dozen developers and designers with backgrounds in computer science, engineering, and electronics, among others. 
+
+The team also has half a dozen researchers and mathematicians. The team is backed by the IOTA Foundation, a collection of othe notable individuals. 
 
 ### Community
 
@@ -161,12 +183,4 @@ IOTA's goal is to become the core of the IoT. While currently the IoT is not ver
 
 Even among cryptocurrencies, IOTA is novel. It's architecture and goals are unproven, but very ambitious. IOTA is a somewhat risky buy, but if its vision becomes reality, the reward for investors will be substantial.
 
-Please note that we are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.
-
-<img alt="IOTA Logo" class="img-small img-right" src="/img/altcoins/iota/iota-logo.png" />
-
-![IOTA Logo](/img/altcoins/iota/iota-logo.png){: .img-right .img-small}
-
-<a target="_blank" href="youtube.com">click here for youtube</a> 
-
-[click here for youtube](youtube.com){: target="_blank"}
+<b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
