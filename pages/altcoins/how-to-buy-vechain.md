@@ -1,8 +1,8 @@
 ---
 title: "How to Buy Vechain – A Beginner's Guide "
 layout: default
-permalink: "/altcoins/how-to-buy/vechain/"
-seotitle: "How to Buy Vechain Quickly with Credit or Debit (2018)"
+permalink: "/altcoins/how-to-buy-vechain/"
+seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 ---
 
 # How to Buy Vechain – A Beginner's Guide
@@ -17,15 +17,23 @@ Most altcoins can only be bought with other cryptocurrencies, and cannot be dire
 
 However, the greater difficulty in buying means that greater profit may be reaped if an obscure altcoin explodes onto the crypto scene.
 
-This guide will explain everything you need to know in order to buy Vechain, a cryptocurrency that intends to revolutionize the supply chain industry.
+**In this guide, you will learn about Vechain, and how to buy and store it.**
+
+If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-usd).
+
+## Introduction to Vechain
 
 
 
-## Step 1: Purchase Bitcoin or Ethereum
+## How to Buy Vechain with USD
 
-Before buying Vechain, you have to buy Bitcoin or Ethereum first. To learn how to buy Bitcoin, follow our [guide](/bitcoin/how-to-buy/).
+You cannot directly purchase Vechain with USD. In order to buy, you must first purchase another cryptocurrency with USD, then trade it for Vechain.
 
-## Step 2: Send to an Exchange
+### Step 1: Purchase Bitcoin or Ethereum
+
+Before buying Vechain, you have to buy Bitcoin or Ethereum first. To learn how to buy Bitcoin, follow our [guide](/bitcoin/).
+
+### Step 2: Send to an Exchange
 
 After buying Bitcoin, you need to send it to an exchange that trades Vechain. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
 
@@ -59,25 +67,25 @@ You will then be prompted to confirm your transaction. You will also be shown th
 
 After you send your Bitcoin, it may take some time to arrive. Don't panic immediately if your Bitcoin has left Coinbase but not arrived at Binance. Depending on the Bitcoin network and websites themselves, transfers may take some time to process.
 
-## Step 3: Buy Vechain 
+### Step 3: Buy Vechain 
 
 After your Bitcoin transfers to Binance, then you can purchase your IOTA.
 
-Back on the Balances tab, scroll down to IOTA and click Trade. In the dropdown menu, select IOTA/BTC.
+Back on the Balances tab, scroll down to Vechain and click Trade. In the dropdown menu, select VEN/BTC.
 
-![Using Bitcoin to buy IOTA](/img/altcoins/iota/binanceiota.png){: .img-center}
+![Using Bitcoin to buy Vechain](/img/altcoins/vechain/binancevechain.png){: .img-center}
 
-In the middle of the screen, select the Market tab. In this tutorial, we will be buying IOTA with a market order. There are other types of orders, but market orders are the easiest to use.
+In the middle of the screen, select the Market tab. In this tutorial, we will be buying Vechain with a market order. There are other types of orders, but market orders are the easiest to use.
 
-![Using a market order](/img/altcoins/iota/iotamarket.png){: .img-center}
+![Using a market order](/img/altcoins/vechain/vechainmarket.png){: .img-center}
 
-Enter the amount of IOTA you would like to buy. The price you pay per IOTA will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy IOTA. Binance will take a .1% fee from your transaction.
+Enter the amount of Vechain you would like to buy. The price you pay per Vechain will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click buy Vechain. Binance will take a .1% fee from your transaction.
 
-![Buying IOTA](/img/altcoins/iota/iotabuy.png){: .img-center}
+![Buying Vechain](/img/altcoins/vechain/vechainbuy.png){: .img-center}
 
-After buying, you should be able to view your IOTA in the balances tab.
+After buying, you should be able to view your Vechain in the balances tab.
 
-## Step 4: Securely Store Your IOTA!
+### Step 4: Securely Store Your IOTA!
 
 Once you buy, your IOTA is stored on the exchange wallet. Although your IOTA has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
 
