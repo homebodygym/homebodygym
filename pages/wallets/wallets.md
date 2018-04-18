@@ -74,7 +74,7 @@ Overall, TREZOR is a great wallet, especially for the low price. For a mere $55,
 
 ## Why Should You Buy a Hardware Wallet? 
 
-We highly recommend purchasing a hardware wallet to ensure the highest level of security for your crypto portfolio. 
+*We highly recommend purchasing a hardware wallet to ensure the highest level of security for your crypto portfolio*. 
 
 Hardware wallets provide a host of benefits, including: 
 
@@ -87,3 +87,16 @@ Hardware wallets provide a host of benefits, including:
 4. Most companies' software that produce hardware wallets use open source code. This means users can validate the wallet's integrity 
 
 ## Software Wallets 
+![My Ether Wallet](/img/wallets/my-ether-wallet.png)
+
+Software wallets are a convenient, free alternative to hardware wallets. Although, many people ask the question: *are software wallets safe to use?* 
+
+In short, yes, software wallets such as MyEtherWallet are safe. The developers do not have access to your private keys. Just make sure you keep them secure – if your private key is lost or stolen, then you're really out of luck... 
+
+MyEtherWallet is a popular choice for storing Ethereum and other ERC-20 tokens. For a full list of Myetherwallet's supported tokens, click [here](https://myetherwallet.github.io/knowledge-base/faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html){: target="_blank"}
+
+You don't have to store your tokens on MyEtherWallet's servers, nor do you have to store them on any other servers – instead, the tokens are stored locally on your computer via their wallet client. 
+
+However, if your computer is still connected to the internet, your tokens may be vulnerable to cyber thiefs. If you choose to use MyEtherWallet, or any other software 'web' wallets, we recommend keeping your computer offline. 
+
+### How to Set Up MyEtherWallet 
