@@ -464,10 +464,10 @@ border-radius: 4px;
 color: #fff;
 padding: 10px 15px;
 border: 1px solid #0043ff;
-display: flex;
 justify-content: center;
-margin-left: 200px;
-margin-right: 200px;
+margin: auto;
+text-align: center;
+display: block;
 }
 
 .btn-middle:hover {
