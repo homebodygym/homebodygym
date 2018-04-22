@@ -191,3 +191,6 @@ IOTA's goal is to become the core of the IoT. While currently the IoT is not ver
 Even among cryptocurrencies, IOTA is novel. It's architecture and goals are unproven, but very ambitious. IOTA is a somewhat risky buy, but if its vision becomes reality, the reward for investors will be substantial.
 
 <b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
+
+* TOC
+{:toc}
