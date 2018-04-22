@@ -192,5 +192,3 @@ Even among cryptocurrencies, IOTA is novel. It's architecture and goals are unpr
 
 <b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
 
-* TOC
-{:toc}
