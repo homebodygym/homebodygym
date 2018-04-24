@@ -156,7 +156,7 @@ The Vechain community is large and active, and the team delivers news regularly.
 
 ### Supply Chain Management
 
-
+.
 
 ### Use Cases
 
