@@ -44,7 +44,7 @@ Each product on the Vechain network will receive a smart chip. This chip will st
 
 Incorporating blockchain and smart chips into supply chain will save producers and consumers time and money.
 
-![The Steps in the Supply Chain](/img/altcoins/vechain/supply-chain.png/){: .img-center}
+![The Steps in the Supply Chain](/img/altcoins/vechain/supply-chain.png){: .img-center}
 
 ## How to Buy Vechain with USD
 
