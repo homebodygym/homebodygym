@@ -124,11 +124,39 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 ## Should you Buy Vechain?  
 
+If you've made it this far, you now know how to buy bitcoin, use it to buy Vechain, and safely store your Vechain in a wallet.
+
+Before buying though, you should always do your research to make sure the coin you're purchasing is sound.
+
+Things to look for include how the coin works, use cases, partners, and the team behind the coin.
+
+The sections below are dedicated to giving you the information you need to decide whether Vechain is a coin you'd like to purchase.
+
 ### The Team
+
+Vechain is led by CEO Sunny Lu. He served as an IT executive in Fortune 500 companies for more than 13 years and is the former CIO of Louis Vuitton China.
+
+Jay Zhang serves as Vechain CFO, and he has been a senior manager at PwC and Deloitte for more than 14 years. 
+
+The position of COO is held by Kevin Feng, who has more than 12 years of cybersecurity experience.
+
+Jianliang Gu is the Vechain CTO. He holds a master's degree in Cybernetics and has more than 16 years of experience in systems development and management.
+
+In total, the core [team](https://www.vechain.org/#team){: target="_blank"} consists of 10 members.
+
+![The Vechain Core Team](/img/altcoins/vechain/vechain-team.png){: .img-center}
+
+Vechain is also overseen by [members](https://www.vechain.org/about#committee){: target="_blank"} of the Board of Steering Committee, the governing body of the Vechain Foundation.
+
+Additionally, Vechain is backed by Draper Dragon, Fenbushi Capital, and Breyer Capital. 
 
 ### Community
 
+The Vechain community is large and active, and the team delivers news regularly. The Vechain [blog](https://medium.com/@vechainofficial){: target="_blank"} posts updates quite often. The Vechain Twitter [page](https://twitter.com/vechainofficial?lang=en){: target="_blank"} has over 90,000 followers. Vechain's [subreddit](https://www.reddit.com/r/Vechain/){: target="_blank"} has more than 46,000 subscribers.
+
 ### Supply Chain Management
+
+
 
 ### Use Cases
 
