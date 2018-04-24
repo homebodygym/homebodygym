@@ -182,6 +182,10 @@ In the future, IOTA aims to become the currency for the Internet of Things. The 
 
 IOTA has already released a [Data Marketplace](https://data.iota.org/){: target="_blank"}, where users can purchase access to a variety of data sensors. This pilot system demonstrates the usefulness that IOTA brings to the Internet of Things.
 
+Additionally, on April 18th, IOTA was used to pay for the charging of a miniature electric car. This test demonstrates a real-world use case for IOTA and micro-payments.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymbbM3WfPQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Conclusion
 
 IOTA is a unique cryptocurrency with an ambitious goal. The Tangle architecture is a novel type of data ledger, and it brings many impressive benefits. However, it is not proven like blockchain. It is still very new, and issues may arise with it in the future.
