@@ -54,7 +54,7 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 
 The Nano S is a safe way to store your crypto portfolio. It requires a 24 word passphrase to gain access to its contents.  
 
-[Read our Review](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
+[View on Amazon](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
 
 ### [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} - $300
 ![Ledger Blue](/img/wallets/ledger-blue.png){: .img-right .img-small}
@@ -63,7 +63,7 @@ The [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} is significantly m
 
 Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incredibly user friendly hardware wallet. In addition, it can support many different tokens. For the full list of supported cryptocurrencies, click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"}. 
 
-[Read our Review](/wallets/ledger-blue-review/){: .btn-middle}
+[View on Amazon](/wallets/ledger-blue-review/){: .btn-middle}
 
 ### [TREZOR Wallet](https://amzn.to/2HalWD1){: target="_blank"} - $55 
 ![TREZOR Wallet](/img/wallets/trezor.png){: .img-right .img-small}
@@ -76,7 +76,7 @@ Like most hardware wallets, TREZOR generates a 24 word recovery phrase – users
 
 Overall, TREZOR is a great wallet, especially for the low price. For a mere $55, TREZOR is a great way to securely store your Bitcoin. 
 
-[Read our Review](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
+[View on Amazon](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
 
 ## Why Should You Buy a Hardware Wallet? 
 
