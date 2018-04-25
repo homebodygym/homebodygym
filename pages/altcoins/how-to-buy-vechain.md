@@ -16,7 +16,13 @@ seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 
 Besides Bitcoin and Ethereum, there are many unique altcoins and tokens.
 
-They all serve 
+They all serve different purposes and have different functions.
+
+In fact, well over a thousand different cryptocurrencies exist.
+
+But with so many on the market, how can you decided which coins are worth owning?
+
+The best way to learn about coins is by researching them, and reading guides and reviews.
 
 **In this guide, you will learn about Vechain, and how to buy and store it.**
 
@@ -24,7 +30,21 @@ If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-u
 
 ## Introduction to Vechain
 
+Vechain is a blockchain product management platform. Vechain uses the blockchain in order to collect, manage, and share product data for better supply chain management.
 
+While you may not realize it, every product you purchase goes through many steps before finally reaching a consumer. At a grocery store for example, each piece of produce is grown somewhere hundreds or thousands of miles away.
+
+After being harvested, the produce then must be shipped through multiple intermediaries. It is sent to a distributor, then from there sent to your grocery store. After arriving, the produce is stocked, where it stays until you finally purchase it. 
+
+Throughout this whole process, the produce must be kept at the correct temperature and humidity to ensure it does not spoil. All these steps must be considered in [supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management){: target="_blank"}.
+
+Vechain attempts to simplify the entire process by incorporating blockchain technology into the supply chain.
+
+Each product on the Vechain network will receive a smart chip. This chip will store and record location data at every step along the way. Additionally, chips can be fitted with other data sensors, such as temperature sensors, to ensure items like produce are not spoiling.
+
+Incorporating blockchain and smart chips into supply chain will save producers and consumers time and money.
+
+![The Steps in the Supply Chain](/img/altcoins/vechain/supply-chain.png){: .img-center}
 
 ## How to Buy Vechain with USD
 
@@ -104,12 +124,44 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 ## Should you Buy Vechain?  
 
+If you've made it this far, you now know how to buy bitcoin, use it to buy Vechain, and safely store your Vechain in a wallet.
+
+Before buying though, you should always do your research to make sure the coin you're purchasing is sound.
+
+Things to look for include how the coin works, use cases, partners, and the team behind the coin.
+
+The sections below are dedicated to giving you the information you need to decide whether Vechain is a coin you'd like to purchase.
+
 ### The Team
+
+Vechain is led by CEO Sunny Lu. He served as an IT executive in Fortune 500 companies for more than 13 years and is the former CIO of Louis Vuitton China.
+
+Jay Zhang serves as Vechain CFO, and he has been a senior manager at PwC and Deloitte for more than 14 years. 
+
+The position of COO is held by Kevin Feng, who has more than 12 years of cybersecurity experience.
+
+Jianliang Gu is the Vechain CTO. He holds a master's degree in Cybernetics and has more than 16 years of experience in systems development and management.
+
+In total, the core [team](https://www.vechain.org/#team){: target="_blank"} consists of 10 members.
+
+![The Vechain Core Team](/img/altcoins/vechain/vechain-team.png){: .img-center}
+
+Vechain is also overseen by [members](https://www.vechain.org/about#committee){: target="_blank"} of the Board of Steering Committee, the governing body of the Vechain Foundation.
+
+Additionally, Vechain is backed by Draper Dragon, Fenbushi Capital, and Breyer Capital. 
 
 ### Community
 
+The Vechain community is large and active, and the team delivers news regularly. The Vechain [blog](https://medium.com/@vechainofficial){: target="_blank"} posts updates quite often. The Vechain Twitter [page](https://twitter.com/vechainofficial?lang=en){: target="_blank"} has over 90,000 followers. Vechain's [subreddit](https://www.reddit.com/r/Vechain/){: target="_blank"} has more than 46,000 subscribers.
+
 ### Supply Chain Management
+
+.
+
+### Use Cases
 
 ### Partnerships
 
 ### Conclusion
+
+<b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
