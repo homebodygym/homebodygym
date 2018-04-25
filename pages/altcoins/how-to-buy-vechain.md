@@ -154,14 +154,54 @@ Additionally, Vechain is backed by Draper Dragon, Fenbushi Capital, and Breyer C
 
 The Vechain community is large and active, and the team delivers news regularly. The Vechain [blog](https://medium.com/@vechainofficial){: target="_blank"} posts updates quite often. The Vechain Twitter [page](https://twitter.com/vechainofficial?lang=en){: target="_blank"} has over 90,000 followers. Vechain's [subreddit](https://www.reddit.com/r/Vechain/){: target="_blank"} has more than 46,000 subscribers.
 
-### Supply Chain Management
-
-.
-
 ### Use Cases
+
+Vechain has many [valuable applications](https://www.vechain.org/enterprise#usecases){: target="_blank"} in the supply chain management ecosystem. As previously mentioned, Vechain smart chips can be added to products that must remain cold to ensure they remain unspoiled and fit for consumption. However, this is not the only use of the Vechain blockchain.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__yfks8BK2A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+In the automotive industry, Vechain has many uses as well. Cars can be fitted with data sensors that create a digital passport of that vehicle. This can track data such as repair history, insurance, and registration.
+
+This data is in the hands of the vehicle owner, but it can easily be shared with insurance companies in the case of an accident or other event. 
+
+Additionally, these digital passports can provide much more transparency to used car buying. A prospective buyer will be able to see the vehicle's repair history and can decide whether or not the condition of the vehicle is fit for them.
+
+One use case where transparency is imperative is the medical and healthcare industry. Implants and other medical devices must be held to strict standards to ensure quality and safety for the patient. The addition of Vechain smart chips will make quality assurance much easier.
+
+Smart chips in implants can also be used to monitor biometrics. If the patient desires, they can share this data with their doctor to receive real time health monitoring.
+
+![Vechain smart chips can monitor biometrics](/img/altcoins/vechain/vechain-biometrics.jpg){: .img-center}
+
+Another major area where Vechain excels is luxury goods and fashion. CEO Sunny Lu is was formerly the CIO of Louis Vuitton China, so he has plenty of experience in this department.
+
+Embedding a chip in luxury goods will help to prevent illegal overstock trading. When a customer plans to buy a luxury item, they can pull out their phone and scan the item.
+
+This simple action will reveal whether an item is authentic or counterfeit. The [global counterfeit goods market](http://www.oecd.org/industry/global-trade-in-fake-goods-worth-nearly-half-a-trillion-dollars-a-year.htm){: target="_blank"} is 461 billion dollars, but the use of Vechain could eliminate that problem entirely.
 
 ### Partnerships
 
+Vechain already has many major partnerships.
+
+In 2017, they [partnered](https://axiomgroupe.com/index.php/articles/1401-china-s-largest-wine-importer-wants-to-use-blockchain.html){: target="_blank"} with Direct Imported Goods (DIG), China's largest fine wine importer. Vechain placed their smart chips on the top of the bottle. When the bottle is opened, the chip is destroyed, which prevents counterfeiters from filling the bottle with another wine.
+
+The chips can also be used to view the life cycle of the wine, including regulators, distributors, and retailers. 
+
+Vechain has also [partnered with DNV GL](https://www.dnvgl.com/news/dnv-gl-partners-with-blockchain-expert-vechain-to-increase-transparency-from-the-factory-to-the-consumer-110284){: target="_blank"}. DNV GL is a $20 billion company that specializes in risk management as well as providing services to maritime, oil and gas, and energy companies. This partnership could provide Vechain with a massive list of clients.
+
+Vechain has also joined the PwC [incubator program](https://www.pwccn.com/en/press-room/press-releases/pr-150517.html){: target="_blank"} which will give them access to additional clients. PwC, or PricewaterhouseCoopers is responsible for auditing many of the world's largest companies, including over 80% of the Fortune Global 500. 
+
+The Chinese government selected Vechain to become the blockchain technology [partner](https://cdn.vechain.com/vechain_national_government_partnership_guian_release.pdf){: target="_blank"} of the government of Gui'an. Gui'an New Area is a rapidly developing economic zone that has drawn Microsoft, Hyundai, Qualcomm, Alibaba, and others.
+
+![Guiyang, a city in the Gui'an New Area](/img/altcoins/vechain/vechain-guian.jpg)
+
+Vechain also has more than a dozen other [partnerships](https://www.vechain.org/enterprise#who-trust-us){: target="_blank"}.
+
 ### Conclusion
+
+Vechain intends to be the blockchain platform for supply chain management. This large and varied field has many sectors, such as agriculture, luxury goods, and automobiles. 
+
+Vechain already has real world usage, and boasts an impressive list of partnerships that only grows by the day. Vechain's biggest obstacle may be other competitors, such as Waltonchain and Modum.
+
+If Vechain can outpace its competitors, and continue to secure partnerships and real world use cases, it has the potential to become ubiquitious within the supply chain management industry.
 
 <b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
