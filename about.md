@@ -16,3 +16,5 @@ Hi, my name is Jacob, and I'm the Co-Founder of Coin Cohort.
 I've been interested in the cryptocurrency space for about a year now. In fact, I'm a blockchain journalist over at [Crypto Slate](https://cryptoslate.com/){: target="_blank}. In addition, I run another website called [Easy PC](https://www.easypc.io/){: target="_blank"}. 
 
 I'm interested in blockchain, PC gaming, entrepreneurship, and writing. When I'm not working, you can usually find me biking, hiking, and (hopefully) staying out of trouble! 
+
+## Co-Founder: Diego Riitano 
