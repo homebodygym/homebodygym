@@ -9,8 +9,7 @@ Coin Cohort was created to help beginners in the crypto space. We know it's conf
 Whether you're looking to buy cryptocurrency, securely store your tokens, or you just want to learn more, we have a step-by-step guide to walk you through the process. 
 
 ## Co-Founder: Jacob Tuwiner
-<img border-radius: 50% alt="jacob headshot" class="img-right img-small" src="/img/profile/close.jpg" />
-![Jacob Headshot](/img/profile/close.jpg){: .img-small .img-right .round}
+![Jacob Headshot](/img/profile/close.jpg){: .img-small .img-right}
 
 Hi, my name is Jacob, and I'm the Co-Founder of Coin Cohort. 
 
