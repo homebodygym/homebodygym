@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Coin Cohort was created to help beginner's in the crypto space. We know it's confusing, but we're here to help! 
+Coin Cohort was created to help beginners in the crypto space. We know it's confusing, but we're here to help! 
 
 Whether you're looking to buy cryptocurrency, securely store your tokens, or you just want to learn more, we have a step-by-step guide to walk you through the process. 
 
