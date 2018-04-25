@@ -1,7 +1,7 @@
 ---
 title: "How to Buy Vechain – A Beginner's Guide "
 layout: default
-permalink: "/how-to-buy-vechain/"
+permalink: "altcoins/how-to-buy-vechain/"
 seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 ---
 
