@@ -13,7 +13,7 @@ seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
 	Jacob Tuwiner
 </h3>
 
-![Bitcoin Logo](/img/bitcoin-logo.png){: .img-right .img-small}
+![Exchanges](/img/exchange/logo.png){: .img-right .img-small}
 
 Bitcoin is a hot commodity these days – however, buying Bitcoin can be confusing. 
 

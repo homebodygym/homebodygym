@@ -54,7 +54,7 @@ Unless you want your digital assets to be stolen from you, we suggest purchasing
 
 The Nano S is a safe way to store your crypto portfolio. It requires a 24 word passphrase to gain access to its contents.  
 
-[Read our Review](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
+[View on Amazon](https://amzn.to/2H7TIsp){: .btn-middle target="_blank"}
 
 ### [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} - $300
 ![Ledger Blue](/img/wallets/ledger-blue.png){: .img-right .img-small}
@@ -63,7 +63,7 @@ The [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} is significantly m
 
 Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incredibly user friendly hardware wallet. In addition, it can support many different tokens. For the full list of supported cryptocurrencies, click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"}. 
 
-[Read our Review](/wallets/ledger-blue-review/){: .btn-middle}
+[View on Amazon](/wallets/ledger-blue-review/){: .btn-middle}
 
 ### [TREZOR Wallet](https://amzn.to/2HalWD1){: target="_blank"} - $55 
 ![TREZOR Wallet](/img/wallets/trezor.png){: .img-right .img-small}
@@ -76,7 +76,7 @@ Like most hardware wallets, TREZOR generates a 24 word recovery phrase – users
 
 Overall, TREZOR is a great wallet, especially for the low price. For a mere $55, TREZOR is a great way to securely store your Bitcoin. 
 
-[Read our Review](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
+[View on Amazon](https://amzn.to/2HalWD1){: target="_blank" .btn-middle}
 
 ## Why Should You Buy a Hardware Wallet? 
 
@@ -106,3 +106,17 @@ You don't have to store your tokens on MyEtherWallet's servers, nor do you have 
 However, if your computer is still connected to the internet, your tokens may be vulnerable to cyber thiefs. If you choose to use MyEtherWallet, or any other software 'web' wallets, we recommend keeping your computer offline. 
 
 ### How to Set Up MyEtherWallet 
+
+First, you'll need to create a secure passsword for your wallet, which should consist of 9 characters minimum. Next, press create new wallet. 
+
+![Password](/img/wallets/password.png)
+
+Then you will be taken to the following screen where it asks you to create a keystore file: 
+
+![Keystore](/img/wallets/keystore.png)
+
+The keystore file is an ecrypted private key, which allows you to access your tokens. Please, I repeat, **PLEASE** make a backup of this file on an external drive or USB flash drive. If you lose this, well, you're out of luck... 
+
+Click "I understand". Then it will ask you to save  your private key. You can also download a paper wallet, a document containing all of the data you'll need to access your tokens. 
+
+Lastly, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press “Keystore/JSON File”, and select the encrypted private key file you downloaded. Press unlock and you're done! 
