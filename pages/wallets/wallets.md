@@ -106,3 +106,17 @@ You don't have to store your tokens on MyEtherWallet's servers, nor do you have 
 However, if your computer is still connected to the internet, your tokens may be vulnerable to cyber thiefs. If you choose to use MyEtherWallet, or any other software 'web' wallets, we recommend keeping your computer offline. 
 
 ### How to Set Up MyEtherWallet 
+
+First, you'll need to create a secure passsword for your wallet, which should consist of 9 characters minimum. Next, press create new wallet. 
+
+![Password](/img/wallets/password.png)
+
+Then you will be taken to the following screen where it asks you to create a keystore file: 
+
+![Keystore](/img/wallets/keystore.png)
+
+The keystore file is an ecrypted private key, which allows you to access your tokens. Please, I repeat, **PLEASE** make a backup of this file on an external drive or USB flash drive. If you lose this, well, you're out of luck... 
+
+Click "I understand". Then it will ask you to save  your private key. You can also download a paper wallet, a document containing all of the data you'll need to access your tokens. 
+
+Lastly, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press “Keystore/JSON File”, and select the encrypted private key file you downloaded. Press unlock and you're done! 
