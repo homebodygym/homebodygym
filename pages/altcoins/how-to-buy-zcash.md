@@ -113,7 +113,9 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 
 ![Trezor Hardware Wallet](/img/altcoins/zcash/wallet.jpg){: .img-center}
 
-Zcash is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
+Zcash's web client API has a wallet built into the application – however, we highly recommend purchasing a hardware wallet. It is one of the only ways to truly guaruntee the safety of your tokens. 
+
+The Ledger Nano S supports Zcash, and is one of the most popular hardware wallets on the market. It is cheap, secure, and convenient. 
 
 For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
 
@@ -129,74 +131,33 @@ The sections below are dedicated to giving you the information you need to decid
 
 ### The Team
 
-Zcash is led by CEO Sunny Lu. He served as an IT executive in Fortune 500 companies for more than 13 years and is the former CIO of Louis Vuitton China.
+Zooko Wilcox is the cryptocurrency's founder and CEO. With more than 20 years of experience with decentralized systems, cryptography and information security, Wilcox is fit for the job. 
 
-Jay Zhang serves as Zcash CFO, and he has been a senior manager at PwC and Deloitte for more than 14 years. 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Announcing the Zcash project: <a href="https://t.co/8Rfc5NAL1C">https://t.co/8Rfc5NAL1C</a></p>&mdash; zooko (@zooko) <a href="https://twitter.com/zooko/status/689861078566600705?ref_src=twsrc%5Etfw">January 20, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The position of COO is held by Kevin Feng, who has more than 12 years of cybersecurity experience.
+According to the Zcash's website:
 
-Jianliang Gu is the Zcash CTO. He holds a master's degree in Cybernetics and has more than 16 years of experience in systems development and management.
+<blockquote source="https://z.cash/team.html">
+	<p>He is recognized for his work on DigiCash, Mojo Nation, ZRTP, “Zooko's Triangle”, Tahoe-LAFS, BLAKE2, and SPHINCS. He is also the Founder of Least Authority.</p>
+</blockquote>
 
-In total, the core [team](https://www.Zcash.org/#team){: target="_blank"} consists of 10 members.
+Other members of the team have attended prestegious schools such as UC Berkeley, MIT and Johns Hopkins University.
 
-![The Zcash Core Team](/img/altcoins/Zcash/team.png){: .img-center}
-
-Zcash is also overseen by [members](https://www.Zcash.org/about#committee){: target="_blank"} of the Board of Steering Committee, the governing body of the Zcash Foundation.
-
-Additionally, Zcash is backed by Draper Dragon, Fenbushi Capital, and Breyer Capital. 
+For more information regarding Zcash's development team and other employees, click <a target="https://z.cash/team.html">here</a>. 
 
 ### Community
 
-The Zcash community is large and active, and the team delivers news regularly. The Zcash [blog](https://medium.com/@Zcashofficial){: target="_blank"} posts updates quite often. The Zcash Twitter [page](https://twitter.com/Zcashofficial?lang=en){: target="_blank"} has over 90,000 followers. Zcash's [subreddit](https://www.reddit.com/r/Zcash/){: target="_blank"} has more than 46,000 subscribers.
+
 
 ### Use Cases
 
-Zcash has many [valuable applications](https://www.Zcash.org/enterprise#usecases){: target="_blank"} in the supply chain management ecosystem. As previously mentioned, Zcash smart chips can be added to products that must remain cold to ensure they remain unspoiled and fit for consumption. However, this is not the only use of the Zcash blockchain.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/__yfks8BK2A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-In the automotive industry, Zcash has many uses as well. Cars can be fitted with data sensors that create a digital passport of that vehicle. This can track data such as repair history, insurance, and registration.
-
-This data is in the hands of the vehicle owner, but it can easily be shared with insurance companies in the case of an accident or other event. 
-
-Additionally, these digital passports can provide much more transparency to used car buying. A prospective buyer will be able to see the vehicle's repair history and can decide whether or not the condition of the vehicle is fit for them.
-
-One use case where transparency is imperative is the medical and healthcare industry. Implants and other medical devices must be held to strict standards to ensure quality and safety for the patient. The addition of Zcash smart chips will make quality assurance much easier.
-
-Smart chips in implants can also be used to monitor biometrics. If the patient desires, they can share this data with their doctor to receive real time health monitoring.
-
-![Zcash smart chips can monitor biometrics](/img/altcoins/Zcash/Zcash-biometrics.jpg){: .img-center}
-
-Another major area where Zcash excels is luxury goods and fashion. CEO Sunny Lu is was formerly the CIO of Louis Vuitton China, so he has plenty of experience in this department.
-
-Embedding a chip in luxury goods will help to prevent illegal overstock trading. When a customer plans to buy a luxury item, they can pull out their phone and scan the item.
-
-This simple action will reveal whether an item is authentic or counterfeit. The [global counterfeit goods market](http://www.oecd.org/industry/global-trade-in-fake-goods-worth-nearly-half-a-trillion-dollars-a-year.htm){: target="_blank"} is 461 billion dollars, but the use of Zcash could eliminate that problem entirely.
 
 ### Partnerships
 
-Zcash already has many major partnerships.
 
-In 2017, they [partnered](https://axiomgroupe.com/index.php/articles/1401-china-s-largest-wine-importer-wants-to-use-blockchain.html){: target="_blank"} with Direct Imported Goods (DIG), China's largest fine wine importer. Zcash placed their smart chips on the top of the bottle. When the bottle is opened, the chip is destroyed, which prevents counterfeiters from filling the bottle with another wine.
-
-The chips can also be used to view the life cycle of the wine, including regulators, distributors, and retailers. 
-
-Zcash has also [partnered with DNV GL](https://www.dnvgl.com/news/dnv-gl-partners-with-blockchain-expert-Zcash-to-increase-transparency-from-the-factory-to-the-consumer-110284){: target="_blank"}. DNV GL is a $20 billion company that specializes in risk management as well as providing services to maritime, oil and gas, and energy companies. This partnership could provide Zcash with a massive list of clients.
-
-Zcash has also joined the PwC [incubator program](https://www.pwccn.com/en/press-room/press-releases/pr-150517.html){: target="_blank"} which will give them access to additional clients. PwC, or PricewaterhouseCoopers is responsible for auditing many of the world's largest companies, including over 80% of the Fortune Global 500. 
-
-The Chinese government selected Zcash to become the blockchain technology [partner](https://cdn.Zcash.com/Zcash_national_government_partnership_guian_release.pdf){: target="_blank"} of the government of Gui'an. Gui'an New Area is a rapidly developing economic zone that has drawn Microsoft, Hyundai, Qualcomm, Alibaba, and others.
-
-![Guiyang, a city in the Gui'an New Area](/img/altcoins/Zcash/Zcash-guian.jpg)
-
-Zcash also has more than a dozen other [partnerships](https://www.Zcash.org/enterprise#who-trust-us){: target="_blank"}.
 
 ### Conclusion
 
-Zcash intends to be the blockchain platform for supply chain management. This large and varied field has many sectors, such as agriculture, luxury goods, and automobiles. 
-
-Zcash already has real world usage, and boasts an impressive list of partnerships that only grows by the day. Zcash's biggest obstacle may be other competitors, such as Waltonchain and Modum.
-
-If Zcash can outpace its competitors, and continue to secure partnerships and real world use cases, it has the potential to become ubiquitious within the supply chain management industry.
-
-<b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
+ 
