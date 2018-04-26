@@ -103,9 +103,7 @@ After buying, you should be able to view your Zcash in the balances tab.
 
 ### Step 3: Safely Store Your Zcash!
 
-Once you buy, your Zcash is stored on the exchange wallet. Although your Zcash has been received, it is not totally secure. Every wallet has a private key, or a sequence of numbers or letters. Each private key is unique to one wallet, and allows access to the contents of that wallet.  
-
-If you have Zcash on an exchange wallet, they will control the private keys. This leaves your tokens more vulnerable to manipulation by others. If the exchange is hacked, the hackers will use your private keys to access your Zcash. 
+If you leave your tokens on the exchange, they will be vulnerable to cyber attack. Exchanges control your private keys – the only way to ensure thieves cannot steal your cryptocurrency is storing it offline. 
 
 Additionally, if an untrustworthy exchange pulls an exit scam, they could walk away with your tokens. While these events may seem unlikely, they have occurred before multiple times.
 
@@ -133,9 +131,6 @@ The sections below are dedicated to giving you the information you need to decid
 ![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-small .img-right}
 
 Zooko Wilcox is the cryptocurrency's founder and CEO. With more than 20 years of experience with decentralized systems, cryptography and information security, Wilcox is fit for the job. 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Announcing the Zcash project: <a href="https://t.co/8Rfc5NAL1C">https://t.co/8Rfc5NAL1C</a></p>&mdash; zooko (@zooko) <a href="https://twitter.com/zooko/status/689861078566600705?ref_src=twsrc%5Etfw">January 20, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 According to the Zcash's website:
 
