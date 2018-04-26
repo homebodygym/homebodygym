@@ -24,7 +24,7 @@ But with so many on the market, how can you decided which coins are worth owning
 
 The best way to learn about coins is by researching them, and reading guides and reviews.
 
-**In this guide, you will learn about Vechain, and how to buy Vechain on Binance. You'll also learn how to safely store your Vechain. **
+**In this guide, you will learn about Vechain, and how to buy Vechain on Binance. You'll also learn how to safely store your Vechain.**
 
 If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-usd).
 
