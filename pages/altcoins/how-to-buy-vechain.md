@@ -8,7 +8,7 @@ seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 # How to Buy Vechain – A Beginner's Guide
 
 <h3 class="page-subtitle">
-    April 19th, 2018 by 
+    April 25th, 2018 by 
     <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano
 </h3>
 
@@ -24,7 +24,7 @@ But with so many on the market, how can you decided which coins are worth owning
 
 The best way to learn about coins is by researching them, and reading guides and reviews.
 
-**In this guide, you will learn about Vechain, and how to buy and store it.**
+**In this guide, you will learn about Vechain, and how to buy Vechain on Binance. You'll also learn how to safely store your Vechain. **
 
 If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-usd).
 
