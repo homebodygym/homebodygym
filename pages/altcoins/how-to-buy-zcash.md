@@ -128,9 +128,10 @@ Things to look for include how the coin works, use cases, partners, and the team
 The sections below are dedicated to giving you the information you need to decide whether Zcash is a coin you'd like to purchase.
 
 ### The Team
-![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-small .img-right}
 
 Zooko Wilcox is the cryptocurrency's founder and CEO. With more than 20 years of experience with decentralized systems, cryptography and information security, Wilcox is fit for the job. 
+
+![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-center}
 
 According to the Zcash's website:
 
