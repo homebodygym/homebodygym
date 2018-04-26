@@ -9,7 +9,7 @@ seotitle: "3 Easy Steps to Buy Zcash Quickly in 2018"
 
 <h3 class="page-subtitle">
     April 25th, 2018 by 
-    <img src="/img/profile/diego.jpg" class="circle" alt="Headshot">Jacob Tuwiner 
+    <img src="/img/profile/close.jpg" class="circle" alt="Headshot">Jacob Tuwiner 
 </h3>
 
 <img class="img-right img-small" alt="zcash logo" src="/img/altcoins/zcash/logo.png" />
