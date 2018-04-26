@@ -144,7 +144,7 @@ Jianliang Gu is the Vechain CTO. He holds a master's degree in Cybernetics and h
 
 In total, the core [team](https://www.vechain.org/#team){: target="_blank"} consists of 10 members.
 
-![The Vechain Core Team](/img/altcoins/vechain/vechain-team.png){: .img-center}
+![The Vechain Core Team](/img/altcoins/vechain/team.png){: .img-center}
 
 Vechain is also overseen by [members](https://www.vechain.org/about#committee){: target="_blank"} of the Board of Steering Committee, the governing body of the Vechain Foundation.
 
