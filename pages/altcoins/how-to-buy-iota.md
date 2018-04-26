@@ -128,7 +128,7 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 Unlike [Vechain](/altcoins/how-to-buy-vechain/) and other ERC-20 tokens, IOTA currently has no compatible hardware wallet, and must use a software wallet. Software wallets are programs that are downloaded onto a computer or other device and used to store cryptocurrency.
 
 <figure>
-	<img alt="ledger nano s" class="img-center" src="/img/wallets/ledger-nano-s.png" />
+	<img alt="ledger nano s" class="img-center" src="/img/altcoins/iota/wallet.jpg" />
 	<figcaption>This hardware wallet is called the Ledger Nano S. It is one of the most secure forms of storage for cryptocurrencies.</figcaption>
 </figure>
 
