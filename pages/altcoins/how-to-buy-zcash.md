@@ -89,7 +89,7 @@ After your Bitcoin transfers to Binance, then you can purchase your Zcash.
 
 Back on the Balances tab, search for ZEC and click Trade. In the dropdown menu, select ZEC/BTC.
 
-![Using Bitcoin to buy Zcash](/img/altcoins/zcash/balances.png){: .img-center}
+![Using Bitcoin to buy Zcash](/img/altcoins/zcash/balances.png)
 
 In the middle of the screen, select the Market tab. In this tutorial, we will be buying Zcash with a market order. There are other types of orders, but market orders are the easiest to use.
 
@@ -97,7 +97,7 @@ In the middle of the screen, select the Market tab. In this tutorial, we will be
 
 Enter the amount of Zcash you would like to buy. The price you pay per Zcash will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy ZEN. Binance will take a .1% fee from your transaction.
 
-![Buying Zcash](/img/altcoins/zcash/buy.png){: .img-center}
+![Buying Zcash](/img/altcoins/zcash/buy.png)
 
 After buying, you should be able to view your Zcash in the balances tab.
 
