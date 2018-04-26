@@ -87,17 +87,17 @@ After you send your Bitcoin, it may take some time to arrive. Don't panic immedi
 
 After your Bitcoin transfers to Binance, then you can purchase your Zcash.
 
-Back on the Balances tab, scroll down to Zcash and click Trade. In the dropdown menu, select ZEC/BTC.
+Back on the Balances tab, search for ZEC and click Trade. In the dropdown menu, select ZEC/BTC.
 
-![Using Bitcoin to buy Zcash](/img/altcoins/Zcash/binanceZcash.png){: .img-center}
+![Using Bitcoin to buy Zcash](/img/altcoins/zcash/balances.png){: .img-center}
 
 In the middle of the screen, select the Market tab. In this tutorial, we will be buying Zcash with a market order. There are other types of orders, but market orders are the easiest to use.
 
-![Using a market order](/img/altcoins/Zcash/Zcashmarket.png){: .img-center}
+![Using a market order](/img/altcoins/zcash/trade.png){: .img-center}
 
-Enter the amount of Zcash you would like to buy. The price you pay per Zcash will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy VEN. Binance will take a .1% fee from your transaction.
+Enter the amount of Zcash you would like to buy. The price you pay per Zcash will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy ZEN. Binance will take a .1% fee from your transaction.
 
-![Buying Zcash](/img/altcoins/Zcash/Zcashbuy.png){: .img-center}
+![Buying Zcash](/img/altcoins/zcash/buy.png){: .img-center}
 
 After buying, you should be able to view your Zcash in the balances tab.
 
@@ -111,7 +111,7 @@ Additionally, if an untrustworthy exchange pulls an exit scam, they could walk a
 
 The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Some cryptocurrencies are unable to be stored in hardware wallets, but Zcash is hardware wallet compatible.
 
-![Trezor Hardware Wallet](/img/wallets/trezor.png){: .img-center}
+![Trezor Hardware Wallet](/img/altcoins/zcash/wallet.jpg){: .img-center}
 
 Zcash is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
