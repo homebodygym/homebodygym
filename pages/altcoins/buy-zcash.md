@@ -24,7 +24,7 @@ Contrary to popular belief, most cryptocurrencies, including Bitcoin, aren't as 
 
 Zcash is a decentralized peer-to-peer token. In fact, it is a fork of Bitcoin. Moreover, comparatively to Bitcoin, Zcash also has 21 million token cap. 
 
-Although, unique from most other projects, Zcash harnesses the power of advanced cryptography to offer complete privacy to its users – many of Zcash's supporters refer to it as digital cash. If anonymity is important to you, Zcash may be a good token to consider. 
+Although, unique from most other projects, Zcash harnesses the power of advanced cryptography to offer complete privacy to its users. If anonymity is important to you, Zcash may be a good token to consider. 
 
 Zcash utilizes zk-Snarks or [Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge](https://blockgeeks.com/guides/what-is-zksnarks/){: target="_blank"} to achieve its high level of privacy. 
 
@@ -120,7 +120,7 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 At this point, you know how to buy Zcash – although, before you invest your hard earned money, you probably want to know what you're investing in. 
 
-In the next section, you'll learn about Zcash's development team, community, use cases, and partnerships. This way, you'll be able to make a more informed decision before you decide to spend (or not spend) your money. 
+In the next section, you'll learn about Zcash's development team, community, and use cases. This way, you'll be able to make a more informed decision before you decide to spend (or not spend) your money. 
 
 **Here's a quick video overview:**
 
@@ -130,9 +130,11 @@ In the next section, you'll learn about Zcash's development team, community, use
 
 ### The Team
 
-![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-center}
-
 Zooko Wilcox is the cryptocurrency's founder and CEO. With more than 20 years of experience with decentralized systems, cryptography and information security, Wilcox is fit for the job. 
+
+![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-middle}
+
+He is also the founder of [Least Authority Enterprises. They were founded to create freedom-compatible technologies, believing in the importance of internet privacy. 
 
 According to the Zcash's website:
 
@@ -153,10 +155,8 @@ Additionally, they have a [Telegram channel](https://t.me/ZCashco){: target="_bl
 Edward Snowden has shown his support for the project, saying: 
 
 <blockquote>
-Zcash is the only altcoin (that i know of) designed and built by professional and academic cryptographers. Hard to ignore... Zcash's privacy tech makes it the most interesting Bitcoin alternative. Bitcoin is great, but if it's not private, it's not safe.
+<p>Zcash is the only altcoin (that i know of) designed and built by professional and academic cryptographers. Hard to ignore... Zcash's privacy tech makes it the most interesting Bitcoin alternative. Bitcoin is great, but if it's not private, it's not safe.</p>
 </blockquote>
-
-### Use Cases
 
 ### Zcash ICO? 
 
@@ -164,9 +164,12 @@ Since Zcash is a fork of Bitcoin, it also has a hard cap of 21 million coins. Th
 
 A group of investors funded the project with $1 million in an effort to kickstart the development. The investors incrementally received 10% of the total token supply over the first 4 years of as a reward for their initial investment. 
 
-### Partnerships
-
-
-
 ### Conclusion
 
+Zcash is focused on the privacy of its users – therefore, anyone looking for a privacy coin should consider Zcash. The token improves upon Bitcoin's blockchain by enabling semi-transparent processing. User data is revealed selectively. 
+
+Zcash protects consumer data by keeping their transactions private. However, it is difficult to say that Zcash will be adopted by businesses, as it is imperative to track spending for record keeping and tax purposes. 
+
+On the other hand, Zcash is an important asset for those looking to preserve their privacy. 
+
+<b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
