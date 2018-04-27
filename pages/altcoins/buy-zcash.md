@@ -134,7 +134,7 @@ Zooko Wilcox is the cryptocurrency's founder and CEO. With more than 20 years of
 
 ![Zooko Wilcox](/img/altcoins/zcash/wilcox.jpg){: .img-middle}
 
-He is also the founder of [Least Authority Enterprises. They were founded to create freedom-compatible technologies, believing in the importance of internet privacy. 
+He is also the founder of Least Authority Enterprises. They were founded to create freedom-compatible technologies, believing in the importance of internet privacy. 
 
 According to the Zcash's website:
 
