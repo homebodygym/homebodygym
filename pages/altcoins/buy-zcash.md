@@ -18,6 +18,8 @@ Learning how to buy Zcash with credit card, PayPal, or Bitcoin can be confusing.
 
 That's why we made this guide – *today you'll learn about the best place to buy zcash, and how to do it yourself*. Don't have any experience buying cryptocurrency? Don't worry! This guide is geared towards beginners. 
 
+Click [here](#how-to-buy-zcash-with-usd) to go straight to the buying guide. 
+
 ## Introduction to Zcash 
 
 Contrary to popular belief, most cryptocurrencies, including Bitcoin, aren't as private as they might seem. The traditional blockchain acts as an open ledger – all transactions are entirely transparent. In Bitcoin's case, wallet balances and addresses are transparent. 
