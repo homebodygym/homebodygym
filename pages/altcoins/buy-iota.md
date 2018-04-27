@@ -26,32 +26,6 @@ However, the greater difficulty in buying means that greater profit may be reape
 
 If you'd like to get directly to buying, click [here](#how-to-buy-iota-with-usd).
 
-## IOTA Overview
-
-IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
-
-The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp){: target="_blank"} that [Bitcoin](/bitcoin/) and other altcoins utilize.
-
-In order to complete a transaction on the IOTA network, that transaction must verify two previous transactions. This small Proof-of-Work renders miners irrevelant. It also gives IOTA a number of unique features:
-
-* The more users on the network, the faster transactions are verified, giving IOTA high scalability – this means transactions are nearly instantaneous
-* No transaction fees
-* More decentralized than any blockchain since it has no miners
-* IOTA utilizes a trinary hash function called Curl, which makes it immune to quantum computers
-
-<figure>
-	<img alt="The Tangle" src="/img/altcoins/iota/tangle.png" class="img-middle">
-	<figcaption>Every transaction in the Tangle verifies two others</figcaption>
-</figure>
-
-IOTA aims to become the standardized currency of the [Internet of Things](https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#391e7dc61d09){: target="_blank"} (IoT).
-
-The Internet of Things is the network of objects connected to the internet that collect and exchange data. These objects include computers, phones, cars, smart thermostats, and even smart cities.
-
-In the future, all these devices may exchange data and money between each other. IOTA's ambition is to become the backbone of transactions for the IoT.
-
-![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-middle}
-
 ## How to Buy IOTA with USD 
 
 There is no way to purchase IOTA directly with USD. Instead, you have to purchase another cryptocurrency with USD, then trade it for IOTA. 
@@ -59,7 +33,6 @@ There is no way to purchase IOTA directly with USD. Instead, you have to purchas
 ### Before Buying IOTA: Purchase Bitcoin or Ethereum
 
 Before buying IOTA, you have to buy Bitcoin or Ethereum first. If you live in the US or one of [these countries](https://www.coinbase.com/global?locale=en-US){: target="_blank"}, you can buy Bitcoin through our step-by-step [guide](/bitcoin/). 
-
 
 ### Step 1: Send to an Exchange
 
@@ -139,6 +112,32 @@ Hot storage may be better than an exchange wallet, but if a hacker gains access 
 Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
 
 The IOTA team has released an official software [wallet](https://github.com/iotaledger/wallet/releases){: target="_blank"} that allows you to store your IOTA in hot or cold storage. For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to wallets.
+
+## IOTA Overview
+
+IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle.
+
+The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp){: target="_blank"} that [Bitcoin](/bitcoin/) and other altcoins utilize.
+
+In order to complete a transaction on the IOTA network, that transaction must verify two previous transactions. This small Proof-of-Work renders miners irrevelant. It also gives IOTA a number of unique features:
+
+* The more users on the network, the faster transactions are verified, giving IOTA high scalability – this means transactions are nearly instantaneous
+* No transaction fees
+* More decentralized than any blockchain since it has no miners
+* IOTA utilizes a trinary hash function called Curl, which makes it immune to quantum computers
+
+<figure>
+	<img alt="The Tangle" src="/img/altcoins/iota/tangle.png" class="img-middle">
+	<figcaption>Every transaction in the Tangle verifies two others</figcaption>
+</figure>
+
+IOTA aims to become the standardized currency of the [Internet of Things](https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#391e7dc61d09){: target="_blank"} (IoT).
+
+The Internet of Things is the network of objects connected to the internet that collect and exchange data. These objects include computers, phones, cars, smart thermostats, and even smart cities.
+
+In the future, all these devices may exchange data and money between each other. IOTA's ambition is to become the backbone of transactions for the IoT.
+
+![The Internet of Things](/img/altcoins/iota/iot.jpg){: .img-middle}
 
 ## Should you Buy IOTA?  
 

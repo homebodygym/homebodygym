@@ -26,26 +26,6 @@ The best way to learn about coins is by researching them, and reading guides and
 
 **In this guide, you will learn about Vechain, and how to buy Vechain on Binance. You'll also learn how to safely store your Vechain.**
 
-If you'd like to get directly to buying, click [here](#how-to-buy-vechain-with-usd).
-
-## Introduction to Vechain
-
-Vechain is a blockchain product management platform. Vechain uses the blockchain in order to collect, manage, and share product data for better supply chain management.
-
-While you may not realize it, every product you purchase goes through many steps before finally reaching a consumer. At a grocery store for example, each piece of produce is grown somewhere hundreds or thousands of miles away.
-
-After being harvested, the produce then must be shipped through multiple intermediaries. It is sent to a distributor, then from there sent to your grocery store. After arriving, the produce is stocked, where it stays until you finally purchase it. 
-
-Throughout this whole process, the produce must be kept at the correct temperature and humidity to ensure it does not spoil. All these steps must be considered in [supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management){: target="_blank"}.
-
-Vechain attempts to simplify the entire process by incorporating blockchain technology into the supply chain.
-
-Each product on the Vechain network will receive a smart chip. This chip will store and record location data at every step along the way. Additionally, chips can be fitted with other data sensors, such as temperature sensors, to ensure items like produce are not spoiling.
-
-Incorporating blockchain and smart chips into supply chain will save producers and consumers time and money.
-
-![The Steps in the Supply Chain](/img/altcoins/vechain/supply-chain.png){: .img-center}
-
 ## How to Buy Vechain with USD
 
 You cannot directly purchase Vechain with USD. In order to buy, you must first purchase another cryptocurrency with USD, then trade it for Vechain.
@@ -121,6 +101,24 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 Vechain is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
 For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
+
+## Introduction to Vechain
+
+Vechain is a blockchain product management platform. Vechain uses the blockchain in order to collect, manage, and share product data for better supply chain management.
+
+While you may not realize it, every product you purchase goes through many steps before finally reaching a consumer. At a grocery store for example, each piece of produce is grown somewhere hundreds or thousands of miles away.
+
+After being harvested, the produce then must be shipped through multiple intermediaries. It is sent to a distributor, then from there sent to your grocery store. After arriving, the produce is stocked, where it stays until you finally purchase it. 
+
+Throughout this whole process, the produce must be kept at the correct temperature and humidity to ensure it does not spoil. All these steps must be considered in [supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management){: target="_blank"}.
+
+Vechain attempts to simplify the entire process by incorporating blockchain technology into the supply chain.
+
+Each product on the Vechain network will receive a smart chip. This chip will store and record location data at every step along the way. Additionally, chips can be fitted with other data sensors, such as temperature sensors, to ensure items like produce are not spoiling.
+
+Incorporating blockchain and smart chips into supply chain will save producers and consumers time and money.
+
+![The Steps in the Supply Chain](/img/altcoins/vechain/supply-chain.png){: .img-center}
 
 ## Should you Buy Vechain?  
 

@@ -18,31 +18,7 @@ Learning how to buy Zcash with credit card, PayPal, or Bitcoin can be confusing.
 
 That's why we made this guide – *today you'll learn about the best place to buy zcash, and how to do it yourself*. Don't have any experience buying cryptocurrency? Don't worry! This guide is geared towards beginners. 
 
-Click [here](#how-to-buy-zcash-with-usd) to go straight to the buying guide. 
-
-## Introduction to Zcash 
-
-Contrary to popular belief, most cryptocurrencies, including Bitcoin, aren't as private as they might seem. The traditional blockchain acts as an open ledger – all transactions are entirely transparent. In Bitcoin's case, wallet balances and addresses are transparent. 
-
-Zcash is a decentralized peer-to-peer token. In fact, it is a fork of Bitcoin. Moreover, comparatively to Bitcoin, Zcash also has 21 million token cap. 
-
-Although, unique from most other projects, Zcash harnesses the power of advanced cryptography to offer complete privacy to its users. If anonymity is important to you, Zcash may be a good token to consider. 
-
-Zcash utilizes zk-Snarks or [Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge](https://blockgeeks.com/guides/what-is-zksnarks/){: target="_blank"} to achieve its high level of privacy. 
-
-The token allows you to choose which kind of transaction you'd like to make. You can make a transparent transaction or a private transaction. Simply choose to send Zcash to the recipient's transparent address (t-addr) or shielded address (z-addr). 
-
-**This diagram illustrates how transparent & private transactions take place:** 
-
-<figure>
-	<img alt="Zcash transactions diagram" src="/img/altcoins/zcash/diagram.png" />
-	<figcaption>For a transparent transaction, send from your transparent t-address to the recipient's transparent address. For shielded transactions, send to/from the shielded address. Easy, right? 
-	</figcaption>
-</figure>
-
-For more information regarding Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge, Zcash's algorithm and how everything works, check out [Blockgeeks' guide](https://blockgeeks.com/guides/what-is-zcash/){: target="_blank"}
-
-## How to Buy Zcash with USD
+## Buy Zcash with USD
 
 You cannot directly purchase Zcash with USD. In order to buy, you must first purchase another cryptocurrency with USD, then trade it for Zcash.
 
@@ -117,6 +93,28 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 Zcash is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
 For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
+
+## Introduction to Zcash 
+
+Contrary to popular belief, most cryptocurrencies, including Bitcoin, aren't as private as they might seem. The traditional blockchain acts as an open ledger – all transactions are entirely transparent. In Bitcoin's case, wallet balances and addresses are transparent. 
+
+Zcash is a decentralized peer-to-peer token. In fact, it is a fork of Bitcoin. Moreover, comparatively to Bitcoin, Zcash also has 21 million token cap. 
+
+Although, unique from most other projects, Zcash harnesses the power of advanced cryptography to offer complete privacy to its users. If anonymity is important to you, Zcash may be a good token to consider. 
+
+Zcash utilizes zk-Snarks or [Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge](https://blockgeeks.com/guides/what-is-zksnarks/){: target="_blank"} to achieve its high level of privacy. 
+
+The token allows you to choose which kind of transaction you'd like to make. You can make a transparent transaction or a private transaction. Simply choose to send Zcash to the recipient's transparent address (t-addr) or shielded address (z-addr). 
+
+**This diagram illustrates how transparent & private transactions take place:** 
+
+<figure>
+	<img alt="Zcash transactions diagram" src="/img/altcoins/zcash/diagram.png" />
+	<figcaption>For a transparent transaction, send from your transparent t-address to the recipient's transparent address. For shielded transactions, send to/from the shielded address. Easy, right? 
+	</figcaption>
+</figure>
+
+For more information regarding Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge, Zcash's algorithm and how everything works, check out [Blockgeeks' guide](https://blockgeeks.com/guides/what-is-zcash/){: target="_blank"}
 
 ## Should you Buy Zcash?  
 

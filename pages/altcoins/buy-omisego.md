@@ -16,10 +16,6 @@ seotitle: "3 Easy Steps to Buy OmiseGO Quickly in 2018"
 
 **In this guide, you will learn about OmiseGO, and how to buy and store it.**
 
-If you'd like to get directly to buying, click [here](#how-to-buy-omisego-with-usd).
-
-## Introduction to OmiseGO
-
 ## How to Buy OmiseGO with USD
 
 You cannot directly purchase OmiseGO with USD. In order to buy, you must first purchase another cryptocurrency with USD, then trade it for OmiseGO.
@@ -93,6 +89,8 @@ The best way to store cryptocurrencies is usually a hardware wallet, as they com
 OmiseGO is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
 For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
+
+## Introduction to OmiseGO
 
 ## Should you Buy OmiseGO?  
 
