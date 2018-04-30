@@ -1,5 +1,5 @@
 ---
-title: "How to Buy OmiseGO – A Beginner's Guide "
+title: "How to Buy OmiseGO: A Beginner's Guide "
 layout: default
 permalink: "/altcoins/buy-omisego/"
 seotitle: "3 Easy Steps to Buy OmiseGO Quickly in 2018"

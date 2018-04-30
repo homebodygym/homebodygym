@@ -1,5 +1,5 @@
 ---
-title: "How to Buy IOTA – A Beginner's Guide "
+title: "How to Buy IOTA: A Beginner's Guide "
 layout: default
 permalink: "/altcoins/buy-iota/"
 seotitle: "3 Easy Steps to Buy IOTA Quickly in 2018"
@@ -23,8 +23,6 @@ Most altcoins can only be bought with other cryptocurrencies, and cannot be dire
 However, the greater difficulty in buying means that greater profit may be reaped if an obscure altcoin explodes onto the crypto scene.
 
 **This guide will explain everything you need to know in order to buy IOTA**, an altcoin based on a new technology called the Tangle.
-
-If you'd like to get directly to buying, click [here](#how-to-buy-iota-with-usd).
 
 ## How to Buy IOTA with USD 
 
