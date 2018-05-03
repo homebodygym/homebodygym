@@ -14,6 +14,10 @@ seotitle: "3 Easy Steps to Buy OmiseGO Quickly in 2018"
 
 ![OmiseGO logo](/img/altcoins/omisego/omisego-logo.png){: .img-right .img-small}
 
+OmiseGO is one of many ERC20 coins, which can be confusing to purchase and store. There are many ways to buy OmiseGO, including with credit card, Paypal, and with Bitcoin.
+
+Luckily, this we've got you covered on buying OmiseGO coins.
+
 **In this guide, you will learn about OmiseGO, and how to buy and store it.**
 
 ## How to Buy OmiseGO with USD
@@ -26,7 +30,7 @@ Before buying OmiseGO, you have to buy Bitcoin or Ethereum first. To learn how t
 
 ### Step 1: Send to an Exchange
 
-After buying Bitcoin, you need to send it to an exchange that trades OmiseGO. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. 
+After buying Bitcoin, you need to send it to an exchange that trades OmiseGO. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}, which is one of the best places to buy OmiseGO. 
 
 After signing into Binance, look in the upper-right corner, hover over the Funds tab, then select Balances.
 
