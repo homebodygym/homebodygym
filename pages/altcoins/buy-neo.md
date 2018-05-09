@@ -18,7 +18,7 @@ Buying cryptocurrency can be confusing, especially if you want to buy an altcoin
 
 NEO, also known as Chinese Ethereum, has become pretty popular recently as NEO and OnChain are forming more and more partnerships. It's easy to see why you want to buy some! 
 
-What's not so easy, though, is actually *buying NEO* for the first time. Luckily, we've got your back. 
+What's not so easy, though, is actually *buying* NEO for the first time. Luckily, we've got your back. 
 
 If you want to buy NEO coins, this is the guide for you. Regardless of your prior experience buying, selling, or trading cryptocurrency, *you'll learn everything you need to know to buy NEO quickly and easily in 2018.*
 
