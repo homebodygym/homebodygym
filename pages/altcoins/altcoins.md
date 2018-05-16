@@ -2,7 +2,7 @@
 title: "Learn How to Buy Altcoins Quickly & Easily"
 layout: "page"
 permalink: "/altcoins/"
-seotitle: "Learn How to Buy Altcoins Quickly & Easily (2018)
+seotitle: "Learn How to Buy Altcoins Quickly & Easily (2018)"
 ---
 
 # Learn How to Buy Altcoins Quickly & Easily
