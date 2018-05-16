@@ -139,7 +139,7 @@ Unlike the previous exchanges on this list, Changelly allows you to seamlessly s
 
 <h3 class="with-image"><a target="_blank" href="https://localbitcoins.com/">LocalBitcoins</a></h3>
 
-**5.** Upon inception, LocalBitcoins was criticized for its legitamcy – now, it has a proven track record as a safe and reliable peer-to-peer exchange. 
+**5.** Upon inception, LocalBitcoins was criticized for its legitimacy – now, it has a proven track record as a safe and reliable peer-to-peer exchange. 
 
 Although the exchange itself is secure, users must be careful of other users on the exchange. It is kind of like an eBay of crypto. The platform itself is solid, but you should check the reputation of those you are dealing with. 
 
