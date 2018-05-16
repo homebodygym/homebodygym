@@ -8,8 +8,8 @@ seotitle: "Learn How to Buy Altcoins Quickly & Easily (2018)
 # Learn How to Buy Altcoins Quickly & Easily
 
 <h3 class="page-subtitle">
-    April 18th, 2018 by 
-    <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano
+    May 16th, 2018 by 
+    <img src="/img/profile/close.jpg" class="circle" alt="Headshot"> Jacob Tuwiner
 </h3>
 
 The cryptocurrency market is taking off – don't get left behind! 
