@@ -1,5 +1,10 @@
 - name: Bitcoin
   url: /bitcoin/
+  subcategories:
+    - subtitle: "How to buy bitcoin"
+      subhref: "/bitcoin/"
+    - subtitle: "What is bitcoin"
+      subhref: "/bitcoin/#taking-a-closer-look-what-is-bitcoin"
   
 - name: Exchanges
   url: /exchanges/
