@@ -60,6 +60,12 @@ table {
 /**************/
 /* BASE RULES */
 /**************/
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 html {
   font-size: 100%;
   -webkit-font-smoothing: antialiased;
@@ -159,7 +165,6 @@ a:hover, a:active {
 }
 
 .select2-container {
-  width: 100% !important;
   font-family: Muli;
 }
 @media screen and (max-width: 640px) {

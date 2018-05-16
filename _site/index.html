@@ -95,7 +95,7 @@
       <div class="hero-content">
         <h1>Welcome to <span>Coin Cohort!</span></h1>
         <p>We make it easy to buy cryptocurrency</p>
-        <select class="js-example-basic-multiple">
+        <select style="width: 100%" class="js-example-basic-multiple">
           <option value=""></option>
           <option value="/bitcoin/">Bitcoin</option>
           <option value="/altcoins/buy-iota/">Iota</option>
@@ -215,7 +215,8 @@
       <script>
         $(document).ready(function() {
             $('.js-example-basic-multiple').select2({
-              placeholder: 'Which token are you looking for?'
+              placeholder: 'Which token are you looking for?',
+              width: 'resolve'
             });
             $('.js-example-basic-multiple').on('select2:select', function (e) {
                 var data = e.params.data;

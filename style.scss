@@ -13,6 +13,12 @@
 /* BASE RULES */
 /**************/
 
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 html {
   font-size: 100%;
   -webkit-font-smoothing: antialiased;
@@ -108,7 +114,6 @@ a {
 }
 
 .select2-container {
-  width: 100% !important;
   font-family: Muli;
   @include mobile {
     font-size: 14px !important;
