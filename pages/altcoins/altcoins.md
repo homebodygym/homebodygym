@@ -5,8 +5,6 @@ permalink: "/altcoins/"
 seotitle: "Learn How to Buy Altcoins Quickly & Easily (2018)"
 ---
 
-# Learn How to Buy Altcoins Quickly & Easily
-
 <h3 class="page-subtitle">
     May 16th, 2018 by 
     <img src="/img/profile/close.jpg" class="circle" alt="Headshot"> Jacob Tuwiner
