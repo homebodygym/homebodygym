@@ -120,6 +120,27 @@ a {
   }
 
 }
+.contact {
+  display: grid;
+  height: 500px;
+  grid-row-gap: 20px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr 50px;
+  font-family: Muli;
+}
+
+.contact input,
+.contact textarea {
+  border: 2px solid #ccc;
+  padding: 10px;
+  font-family: Muli;
+}
+.contact button {
+  border: none;
+  color: #fff;
+  background: #333;
+  cursor: pointer;
+}
 .select2-container input:focus {
   outline: none;
 }
@@ -475,7 +496,7 @@ img {
   transition: all .15s;
   @media (max-width: 1080px) {
     font-size: 13px;
-    padding: 13px 17px; 
+    padding: 13px 17px;
   }
 }
 .home-box .big-button:hover {
@@ -755,7 +776,9 @@ td {
 .table-image {
 max-width: 72px;
 height: auto;
-
+ @include mobile {
+   padding: 10px;
+ }
 }
 
 /* Button */
@@ -774,6 +797,7 @@ font-weight: bold;
 @include mobile {
   font-size: 10px; 
   padding: 10px 15px;
+  margin: 20px;
 }
 }
 

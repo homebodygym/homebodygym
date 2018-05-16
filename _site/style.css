@@ -173,6 +173,29 @@ a:hover, a:active {
   }
 }
 
+.contact {
+  display: grid;
+  height: 500px;
+  grid-row-gap: 20px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr 50px;
+  font-family: Muli;
+}
+
+.contact input,
+.contact textarea {
+  border: 2px solid #ccc;
+  padding: 10px;
+  font-family: Muli;
+}
+
+.contact button {
+  border: none;
+  color: #fff;
+  background: #333;
+  cursor: pointer;
+}
+
 .select2-container input:focus {
   outline: none;
 }
@@ -1277,6 +1300,11 @@ td {
   max-width: 72px;
   height: auto;
 }
+@media screen and (max-width: 640px) {
+  .table-image {
+    padding: 10px;
+  }
+}
 
 /* Button */
 .big-button {
@@ -1295,6 +1323,7 @@ td {
   .big-button {
     font-size: 10px;
     padding: 10px 15px;
+    margin: 20px;
   }
 }
 
