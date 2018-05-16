@@ -1,6 +1,6 @@
 ---
 title: "How to Buy Zcash: A Beginner's Guide"
-layout: default
+layout: page
 permalink: "/altcoins/buy-zcash/"
 seotitle: "3 Easy Steps to Buy Zcash Quickly in 2018"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How to Buy Vechain: A Beginner's Guide "
-layout: default
+layout: page
 permalink: "/altcoins/buy-vechain/"
 seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 ---

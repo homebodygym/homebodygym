@@ -1,8 +1,22 @@
 - name: Bitcoin
   url: /bitcoin/
   
-- name: Altcoins
-  url: /altcoins/
+- name: Exchanges
+  url: /exchanges/
 
 - name: Wallets
   url: /wallets/
+
+- name: Altcoins
+  url: /altcoins/
+  subcategories:
+    - subtitle: "Buy Iota"
+      subhref: "/altcoins/buy-iota/"
+    - subtitle: "Buy Neo"
+      subhref: "/altcoins/buy-neo/"
+    - subtitle: "Buy Omisego"
+      subhref: "/altcoins/buy-omisego/"
+    - subtitle: "Buy Vechain"
+      subhref: "/altcoins/buy-vechain/"
+    - subtitle: "Buy Zcash"
+      subhref: "/altcoins/buy-zcash/"

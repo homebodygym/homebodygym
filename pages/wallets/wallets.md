@@ -1,5 +1,6 @@
 ---
 title: "The Best Cryptocurrency Wallets"
+layout: "page"
 permalink: "/wallets/"
 seotitle: "5 Best Cryptocurrency Wallets: Hardware, Software, & More! (2018)"
 ---

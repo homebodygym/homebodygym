@@ -1,6 +1,6 @@
 ---
 title: "Altcoins – A Beginner's Guide "
-layout: default
+layout: "page"
 permalink: "/altcoins/"
 seotitle: "Learn How to Buy Altcoins Quickly & Easily (2018)
 ---

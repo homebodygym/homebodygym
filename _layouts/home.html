@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display|Raleway|Muli:400,700" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/img/logo.jpg" /></a>
+
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+            {% for item in site.data.menus %}
+              {% if item.subcategories != null %}
+                <span class="item-with-sub">
+                  <a href="{{ site.baseurl }}{{ item.url }}">
+                    {{ item.name }} ▼
+                    <div class="sub-menu">
+                    {% for subcategory in item.subcategories %}
+                      <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                    {% endfor %}
+                  </div>
+                  </a>
+                </span>
+
+              {% else %} 
+              <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}
+              </a>
+              {% endif %}
+            {% endfor %}
+        </nav>
+      </header>
+    </div>
+    <div class="hero">
+      <div class="hero-content">
+        <h1>Welcome to <span>Coin Cohort!</span></h1>
+        <p>We make it easy to buy cryptocurrency</p>
+        <select class="js-example-basic-multiple">
+          <option value=""></option>
+          <option value="/bitcoin/">Bitcoin</option>
+          <option value="/altcoins/buy-iota/">Iota</option>
+          <option value="/altcoins/buy-neo/">Neo</option>
+          <option value="/altcoins/buy-omisego/">Omisego</option>
+          <option value="/altcoins/buy-vechain/">Vechain</option>
+          <option value="/altcoins/buy-zcash/">Zcash</option>
+        </select>
+      </div>
+    </div>
+<!--     <div class="search">
+      <h2>Lorem ipsum dolor sit amet.</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, sunt eaque laboriosam. Et rem officia placeat at fuga nostrum, magnam doloremque nulla maiores officiis.</p>
+      <form class="search-form" action="#">
+        <input type="search" placeholder="Lorem ipsum dolor sit amet.">
+        <input type="submit" value="Search">
+      </form>
+    </div> -->
+    <div class="services">
+      <div class="service-block">
+        <a href="/bitcoin/">
+          <i class="ti-wallet"></i>
+          <h3>Learn How to Buy Bitcoin</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati blanditiis inventore dolorem non cupiditate dolores animi.</p>
+        </a>
+      </div>
+      <div class="service-block">
+        <a href="/exchanges/">
+          <i class="ti-exchange-vertical"></i>
+          <h3>Exchanges</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit in cum, quos ea dignissimos at, quod architecto facere.</p>
+        </a>
+      </div>
+      <div class="service-block">
+        <a href="/wallets/">
+          <i class="ti-lock"></i>
+          <h3>Secure Your Cryptocurrency</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum obcaecati earum exercitationem itaque, nemo accusamus cupidi.</p>
+        </a>
+      </div>
+    </div>
+    <div id="main" role="main">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+        <footer class="footer">
+        <a href="/contact/">Contact Us</a>
+        <a href="/about/">About Us</a>
+        <a href="/about"/>Disclaimer</a>
+          {% include svg-icons.html %}
+        </footer>
+    </div>
+
+    {% include analytics.html %}
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+      <script>
+        $(document).ready(function() {
+            $('.js-example-basic-multiple').select2({
+              placeholder: 'Which token are you looking for?'
+            });
+            $('.js-example-basic-multiple').on('select2:select', function (e) {
+                var data = e.params.data;
+                window.location.href += data.id;
+            });
+        });
+      </script>
+  </body>
+</html>

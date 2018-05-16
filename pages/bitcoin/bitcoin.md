@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Buying Guide"
-layout: default
+layout: page
 permalink: "/bitcoin/"
 seotitle: "How to Buy Bitcoin with Credit or Debit Easily (2018)"
 ---

@@ -1,11 +1,10 @@
 ---
 title: "How to Buy Bitcoin in 2018 – The Complete Beginner's Guide "
-layout: default
+layout: page
 permalink: "/exchanges/"
 seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
 ---
 
-# How to Buy Bitcoin in 2018 – The Complete Beginner's Guide 
 
 <h3 class="page-subtitle">
 	April 9th, 2018 by 
@@ -70,9 +69,10 @@ This page is not meant to teach you how to buy Bitcoin, but rather which exchang
 
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
+
 <a target="_blank" href="https://www.coinbase.com/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/coinbase/logo.png" /></a>
 
-<h3><a target="_blank" href="https://www.coinbase.com/">Coinbase</a></h3>
+<h3 class="with-image"><a target="_blank" href="https://www.coinbase.com/">Coinbase</a></h3>
 
 **1.** Coinbase is heavily focused on simplicity, rendering it a great choice for first-time buyers. Buying bitcoin with Coinbase is quick and simple. 
 
@@ -89,7 +89,7 @@ For an in-depth tutorial on buying bitcoin from Coinbase, check out our [guide](
 
 <a target="_blank" href="https://cex.io/"><img class="small-title-img" alt="coinbase logo" src="/img/exchange/cex-io/logo.png" /></a>
 
-<h3><a target="_blank" href="https://cex.io/">CEX.io</a></h3>
+<h3 class="with-image"><a target="_blank" href="https://cex.io/">CEX.io</a></h3>
 
 **2.** CEX.io is another viable option for those looking to buy Bitcoin with their credit or debit card. 
 
@@ -107,7 +107,7 @@ On the bright side of things, the exchange has a low 0.2% trading fee, support f
 
 <a target="_blank" href="https://www.coinmama.com/"><img class="small-title-img" alt="coinmama logo" src="/img/exchange/coinmama/logo.png" /></a>
 
-<h3><a target="_blank" href="https://www.coinmama.com/">Coinmama</a></h3>
+<h3 class="with-image"><a target="_blank" href="https://www.coinmama.com/">Coinmama</a></h3>
 
 **3.** Coinmama is a popular and reputable exchange, allowing you to purchase Bitcoin with your credit or debit card. However, they charge a 6% fee, which is high among Bitcoin exchanges. 
 
@@ -123,7 +123,7 @@ Coinmama is a reliable exchange with an easy-to-use platform.
 
 <a target="_blank" href="https://changelly.com/"><img class="small-title-img" alt="changelly logo" src="/img/exchange/changelly/logo.jpg" /></a>
 
-<h3><a target="_blank" href="https://changelly.com/">Changelly</a></h3>
+<h3 class="with-image"><a target="_blank" href="https://changelly.com/">Changelly</a></h3>
 
 **4.** Based in Prague, Changelly allows you to trade without registering at any exchange – no verification is needed. 
 
@@ -137,7 +137,7 @@ Unlike the previous exchanges on this list, Changelly allows you to seamlessly s
 
 <a target="_blank" href="https://localbitcoins.com/"><img class="small-title-img" alt="local-bitcoins logo" src="/img/exchange/local-bitcoins/logo.png" /></a>
 
-<h3><a target="_blank" href="https://localbitcoins.com/">LocalBitcoins</a></h3>
+<h3 class="with-image"><a target="_blank" href="https://localbitcoins.com/">LocalBitcoins</a></h3>
 
 **5.** Upon inception, LocalBitcoins was criticized for its legitamcy – now, it has a proven track record as a safe and reliable peer-to-peer exchange. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: default
+layout: page
 permalink: "/contact/"
 seotitle: "Get in Touch with Coin Cohort"
 ---

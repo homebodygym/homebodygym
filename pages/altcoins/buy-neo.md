@@ -1,6 +1,6 @@
 ---
 title: "How to Buy NEO: A Beginner's Guide "
-layout: default
+layout: page
 permalink: "/altcoins/buy-neo/"
 seotitle: "3 Easy Steps to Buy NEO Quickly in 2018"
 ---
