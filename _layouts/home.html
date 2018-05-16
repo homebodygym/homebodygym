@@ -36,7 +36,10 @@
                     {{ item.name }} ▼
                     <div class="sub-menu">
                     {% for subcategory in item.subcategories %}
-                      <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                      <div>
+                        <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                        <img src="{{ subcategory.img }}" alt="{{ subcategory.sutitle }}">
+                      </div>
                     {% endfor %}
                   </div>
                   </a>
