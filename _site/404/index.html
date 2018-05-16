@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>404 - Page not found – Coin Cohort – </title>
+    <title>404 - Page not found – Coin Cohort</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -36,6 +36,8 @@
     <link rel="stylesheet" type="text/css" href="/style.css" />
     <link rel="alternate" type="application/rss+xml" title="Coin Cohort - " href="/feed.xml" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display|Raleway|Muli:400,700" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="https://coincohort.com/img/logo.jpg" type="image/x-icon">
 
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -50,7 +52,15 @@
           <h1 class="site-name"><a href="/">Coin Cohort</a></h1>
           <p class="site-description"></p>
         </div>
-
+        <select style="width: 270px" class="select-hero">
+          <option value=""></option>
+          <option value="/bitcoin/">Bitcoin</option>
+          <option value="/altcoins/buy-iota/">Iota</option>
+          <option value="/altcoins/buy-neo/">Neo</option>
+          <option value="/altcoins/buy-omisego/">Omisego</option>
+          <option value="/altcoins/buy-vechain/">Vechain</option>
+          <option value="/altcoins/buy-zcash/">Zcash</option>
+        </select>
         <nav>
             
               
@@ -178,5 +188,19 @@
 	<!-- End Google Analytics -->
 
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+    <script>
+      $(document).ready(function() {
+          $('.select-hero').select2({
+            placeholder: 'Search cryptocurrencies',
+            width: 'resolve'
+          });
+          $('.select-hero').on('select2:select', function (e) {
+              var data = e.params.data;
+              window.location.href += data.id;
+          });
+      });
+    </script>
   </body>
 </html>
