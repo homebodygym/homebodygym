@@ -98,7 +98,7 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 Contrary to popular belief, most cryptocurrencies, including Bitcoin, aren't as private as they might seem. The traditional blockchain acts as an open ledger – all transactions are entirely transparent. In Bitcoin's case, wallet balances and addresses are transparent. 
 
-Zcash is a decentralized peer-to-peer token. In fact, it is a fork of Bitcoin. Moreover, comparatively to Bitcoin, Zcash also has 21 million token cap. 
+Zcash is a decentralized peer-to-peer token. In fact, it is a fork of Bitcoin. Moreover, similar to Bitcoin, Zcash also has 21 million token cap. 
 
 Although, unique from most other projects, Zcash harnesses the power of advanced cryptography to offer complete privacy to its users. If anonymity is important to you, Zcash may be a good token to consider. 
 
@@ -114,7 +114,7 @@ The token allows you to choose which kind of transaction you'd like to make. You
 	</figcaption>
 </figure>
 
-For more information regarding Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge, Zcash's algorithm and how everything works, check out [Blockgeeks' guide](https://blockgeeks.com/guides/what-is-zcash/){: target="_blank"}
+For more information regarding Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge, Zcash's algorithm and how everything works, check out [Blockgeeks' guide](https://blockgeeks.com/guides/what-is-zcash/){: target="_blank"}.
 
 ## Should you Buy Zcash?  
 
