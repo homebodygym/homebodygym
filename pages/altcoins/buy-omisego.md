@@ -96,13 +96,39 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 ## Introduction to OmiseGO
 
+
+
 ## Should you Buy OmiseGO?  
+
+By reading this guide, you've learned the steps to purchasing OmiseGO and safely storing it. These steps include buying Bitcoin, sending it to an exchange, trading for OmiseGO, then safely storing your OmiseGO tokens in a wallet.
+
+However, before you buy, you should do your research to make sure you are buying a good asset.
+
+Some of the important things to know before buying include what the coin does, the team behind it, and any significant partnerships.
+
+The following sections will provide the information you need to decide whether OmiseGO is a coin you'd like to purchase.
 
 ### The Team
 
-### Community
+The OmiseGO team is led by CEO Jun Hasegawa. Hasegawa has more than 16 years of experience in web design and marketing. He was also the director of Alpha-do Inc for 16 years. 
+
+Donnie Harsinut is the COO and cofounder. He was the International Trading Manager at Alpha-do Inc for more than 13 years.
+
+OmiseGO's product designer is Wendell Davis, one of the founding team members of Ethereum. He previously created Hive, one of the first accessible Bitcoin wallets.
+
+Besides these 3, the OmiseGO [team](https://omisego.network/team/){: target="_blank"} includes more than 20 other members, including software engineers, business developers, graphic designers, and others.
+
+OmiseGO also boasts an impressive board of advisors. [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin){: target="_blank"} is the founder of the largest altcoin, Ethereum, and he is a principal advisor to the project.
+
+Another critical advisor is [Joseph Poon](https://www.crunchbase.com/person/joseph-poon#section-overview){: target="_blank"}, the founder of [Lightning Network](https://lightning.network/){: target="_blank"}, a software implementation designed to drastically increase the speed of Bitcoin transactions.
+
+OmiseGO has more than a dozen other prominent advisors.
 
 ### Plasma
+
+
+
+### Use Cases
 
 ### Partnerships
 
