@@ -98,7 +98,7 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 ## Introduction to NEO
 
-NEO wants to reinvent the way business is conducted by creating a smart economy with deployable Smart Contracts. NEO, otherwise known as "Chinese EThereum", is quite popular in China (hence the nickname). Unlike ERC-20 tokens that run on the Ethereum blockchain, NEO was built from scratch with its own blockchain network. 
+NEO wants to reinvent the way business is conducted by creating a smart economy with deployable Smart Contracts. NEO, otherwise known as "Chinese Ethereum", is quite popular in China (hence the nickname). Unlike ERC-20 tokens that run on the Ethereum blockchain, NEO was built from scratch with its own blockchain network. 
 
 The coin has a strong emphasis on digital identity to digitize assets. 
 
@@ -118,7 +118,7 @@ NEO's developers want it to be adopted by mainstream business and governments al
 
 ### NEO's Smart Contracts 
 
-Comparitively to Ethereum, NEO is a decentralized platform for the construction of Smart Contracts and DApps (Decentralized Applications). NEO already has a multitude of decentralized applications that have been developed for their blockchain.
+Similar to Ethereum, NEO is a decentralized platform for the construction of Smart Contracts and DApps (Decentralized Applications). NEO already has a multitude of decentralized applications that have been developed for their blockchain.
 
 Ethereum uses a unique code known as "Serenity" that all programmers must use if they want to create a Smart Contract, which requires them to learn an entirely new coding language. 
 
@@ -181,6 +181,6 @@ NEO's following on [Reddit](https://www.reddit.com/r/NEO/){: target="_blank"} is
 
 NEO is a popular altcoin, sitting comfortably in the top 10 cryptocurrencies by market cap. The platform is incredibly useful, and the Chinese government is looking to adopt NEO for use in tracking assets. 
 
-The emphasis on digital identity is crucial for NEO's success, as it renders NEO incredibly useful for businesses and governments. The project is lead by talented individuals, and backed by a strong community. The future of NEO looks bright! page
+The emphasis on digital identity is crucial for NEO's success, as it renders NEO incredibly useful for businesses and governments. The project is lead by talented individuals, and backed by a strong community. The future of NEO looks bright! 
 
 <b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>

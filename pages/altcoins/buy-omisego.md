@@ -68,15 +68,15 @@ After your Bitcoin transfers to Binance, then you can purchase your OmiseGO.
 
 Back on the Balances tab, scroll down to OmiseGO and click Trade. In the dropdown menu, select VEN/BTC.
 
-![Using Bitcoin to buy OmiseGO](/img/altcoins/OmiseGO/binanceOmiseGO.png){: .img-center}
+![Using Bitcoin to buy OmiseGO](/img/altcoins/Omisego/binanceOmisego.png){: .img-center}
 
 In the middle of the screen, select the Market tab. In this tutorial, we will be buying OmiseGO with a market order. There are other types of orders, but market orders are the easiest to use.
 
-![Using a market order](/img/altcoins/OmiseGO/OmiseGOmarket.png){: .img-center}
+![Using a market order](/img/altcoins/Omisego/Omisegomarket.png){: .img-center}
 
 Enter the amount of OmiseGO you would like to buy. The price you pay per OmiseGO will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy VEN. Binance will take a .1% fee from your transaction.
 
-![Buying OmiseGO](/img/altcoins/OmiseGO/OmiseGObuy.png){: .img-center}
+![Buying OmiseGO](/img/altcoins/Omisego/Omisegobuy.png){: .img-center}
 
 After buying, you should be able to view your OmiseGO in the balances tab.
 
@@ -116,6 +116,8 @@ Donnie Harsinut is the COO and cofounder. He was the International Trading Manag
 
 OmiseGO's product designer is Wendell Davis, one of the founding team members of Ethereum. He previously created Hive, one of the first accessible Bitcoin wallets.
 
+![OmiseGO Core Team](/img/altcoins/omisego-team.png){: .img-center}
+
 Besides these 3, the OmiseGO [team](https://omisego.network/team/){: target="_blank"} includes more than 20 other members, including software engineers, business developers, graphic designers, and others.
 
 OmiseGO also boasts an impressive board of advisors. [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin){: target="_blank"} is the founder of the largest altcoin, Ethereum, and he is a principal advisor to the project.
@@ -126,7 +128,19 @@ OmiseGO has more than a dozen other prominent advisors.
 
 ### Plasma
 
+One of the biggest problems that plagues major cryptocurrencies is transaction scaling. Bitcoin is capable of just 7 transactions per second, while Ethereum can do around 15 tps. 
 
+These numbers pale in comparison to traditional payment processors. Visa can handle more than 24,000 tps. Big cryptocurrencies have a long way to go before their networks are capable of competing with current systems.
+
+![Transactions Per Second Comparison](/img/altcoins/omisego/transaction-scaling.jpg){: .img-center}
+
+However, many cryptocurrencies are working on their own solutions. Bitcoin is developing Lightning Network to increase their tps. Ethereum has a different solution, known as [Plasma](https://plasma.io/){: target="_blank"}.
+
+This scaling solution is also being developed by Joseph Poon, along with Vitalik Buterin. But what does this have to do with OmiseGO?
+
+OmiseGO will be the first token to [implement](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612){: target="_blank"} Plasma. Plasma is a complex scaling solution that involves the use of a child chain to store data in order to prevent slowdowns on the original chain.
+
+Plasma will allow for at least 100,000 transactions per second, and OmiseGO will be the first to implement this technology.
 
 ### Use Cases
 
