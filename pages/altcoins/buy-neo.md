@@ -5,8 +5,6 @@ permalink: "/altcoins/buy-neo/"
 seotitle: "3 Easy Steps to Buy NEO Quickly in 2018"
 ---
 
-# How to Buy NEO – A Beginner's Guide
-
 <h3 class="page-subtitle">
     May 5th, 2018 by 
     <img src="/img/profile/close.jpg" class="circle" alt="Headshot">Jacob Tuwiner

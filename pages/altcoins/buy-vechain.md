@@ -5,8 +5,6 @@ permalink: "/altcoins/buy-vechain/"
 seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
 ---
 
-# How to Buy Vechain – A Beginner's Guide
-
 <h3 class="page-subtitle">
     April 25th, 2018 by 
     <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano

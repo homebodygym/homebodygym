@@ -5,8 +5,6 @@ permalink: "/bitcoin/"
 seotitle: "How to Buy Bitcoin with Credit or Debit Easily (2018)"
 ---
 
-# The Beginner's Guide to Bitcoin 
-
 <h3 class="page-subtitle">
 	March 25th, 2018 by 
 	<img src="/img/profile/close.jpg" class="circle" alt="Headshot">

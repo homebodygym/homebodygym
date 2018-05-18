@@ -5,7 +5,6 @@ permalink: "/exchanges/"
 seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
 ---
 
-
 <h3 class="page-subtitle">
 	April 9th, 2018 by 
 	<img src="/img/profile/close.jpg" class="circle" alt="Headshot">

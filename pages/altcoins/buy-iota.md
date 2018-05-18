@@ -5,8 +5,6 @@ permalink: "/altcoins/buy-iota/"
 seotitle: "3 Easy Steps to Buy IOTA Quickly in 2018"
 ---
 
-# How to Buy IOTA – A Beginner's Guide
-
 <h3 class="page-subtitle">
     Updated May 16th, 2018 by 
     <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano

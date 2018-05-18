@@ -5,8 +5,6 @@ permalink: "/altcoins/buy-omisego/"
 seotitle: "3 Easy Steps to Buy OmiseGO Quickly in 2018"
 ---
 
-# How to Buy OmiseGO – A Beginner's Guide
-
 <h3 class="page-subtitle">
     April 19th, 2018 by 
     <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano

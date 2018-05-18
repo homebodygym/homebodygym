@@ -5,8 +5,6 @@ permalink: "/altcoins/buy-zcash/"
 seotitle: "3 Easy Steps to Buy Zcash Quickly in 2018"
 ---
 
-# How to Buy Zcash – A Beginner's Guide
-
 <h3 class="page-subtitle">
     April 25th, 2018 by 
     <img src="/img/profile/close.jpg" class="circle" alt="Headshot">Jacob Tuwiner 
