@@ -126,7 +126,7 @@ Donnie Harsinut is the COO and cofounder. He was the International Trading Manag
 
 OmiseGO's product designer is Wendell Davis, one of the founding team members of Ethereum. He previously created Hive, one of the first accessible Bitcoin wallets.
 
-![OmiseGO Core Team](/img/altcoins/omisego-team.png){: .img-center}
+![OmiseGO Core Team](/img/altcoins/omisego/omisego-team.png){: .img-center}
 
 Besides these 3, the OmiseGO [team](https://omisego.network/team/){: target="_blank"} includes more than 20 other members, including software engineers, business developers, graphic designers, and others.
 
