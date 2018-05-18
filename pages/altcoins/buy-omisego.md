@@ -154,7 +154,17 @@ Plasma will allow for at least 100,000 transactions per second, and OmiseGO will
 
 ### Use Cases
 
+One of the biggest use cases of OmiseGO will be allowing those without access to traditional banking to use eWallets. 
+
+In South Asia, where Omise is based, less than half the population has access to a [bank account](http://www.businessinsider.com/the-worlds-unbanked-population-in-6-charts-2017-8){: target="_blank"}. In other countries this percentage is even lower.
+
+While these people lack banks, they have access to mobile wallets. The problem is, there are too many wallet services, and different vendors use different services. Transferring from one wallet to another can be expensive and slow.
+
+OmiseGo is the ideal solution. This one eWallet will allow users to transfer money and pay for services quickly and efficiently. For more information about this, check out section 2 of Hackernoon's [OmiseGO guide](https://hackernoon.com/omisego-omg-real-problems-real-solutions-everything-you-need-to-know-8-reasons-to-buy-92551527c0a7){: target="_blank"}.
+
 ### Partnerships
+
+
 
 ### Conclusion
 
