@@ -122,7 +122,7 @@ Incorporating blockchain and smart chips into supply chain will save producers a
 
 ## Should you Buy Vechain?  
 
-If you've made it this far, you now know how to buy bitcoin, use it to buy Vechain, and safely store your Vechain in a wallet.
+If you've made it this far, you now know how to buy Bitcoin, use it to buy Vechain, and safely store your Vechain in a wallet.
 
 Before buying though, you should always do your research to make sure the coin you're purchasing is sound.
 

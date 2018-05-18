@@ -96,7 +96,17 @@ For more information on cryptocurrency wallets, you can check out our [guide](/w
 
 ## Introduction to OmiseGO
 
+[OmiseGO](https://omisego.network/){: target="_blank"} is a subsidiary of Omise, an online payment gateway service provider based in Asia. OmiseGO aims to offer an eWallet service that will run on the OmiseGO decentralized exhange. 
 
+This eWallet will allow shoppers, merchants, payment service providers (PSP's), and businesses to connect to OmiseGO's decentralized exchange (DEX) to buy, sell, and trade cryptocurrencies and other digital assets.
+
+The OmiseGO network consists of a few main components, including the OmiseGO White-label Wallet Software Development Kit (SDK), the decentralized exchange, and the OmiseGO (OMG) tokens.
+
+The OmiseGO wallet is white label wallet, which means that OmiseGO will provide the base software for developers to build applications on. The SDK will provide developers with the framework and tools they need to design their own eWallets for their customers. 
+
+OmiseGO's decentralized exchange is run on a Proof-of-Stake blockchain through which digital assets can be traded. All transactions are managed on the DEX blockchain and validated by OMG stakers. The exchange will also provide interoperability for Ethereum tokens and any Bitcoin blockchain to facilitate cross-chain transfers.
+
+OMG tokens are ERC-20 tokens that validate transactions on the DEX blockchain. By staking tokens, users validate transactions and are rewarded with transaction fees. Users are incentized not to improperly validate transactions, as untruthful validation of transactions will result in the staked coins being burned.
 
 ## Should you Buy OmiseGO?  
 
