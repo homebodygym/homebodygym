@@ -68,15 +68,15 @@ After your Bitcoin transfers to Binance, then you can purchase your OmiseGO.
 
 Back on the Balances tab, scroll down to OmiseGO and click Trade. In the dropdown menu, select VEN/BTC.
 
-![Using Bitcoin to buy OmiseGO](/img/altcoins/Omisego/binanceOmisego.png){: .img-center}
+![Using Bitcoin to buy OmiseGO](/img/altcoins/omisego/binanceomisego.png){: .img-center}
 
 In the middle of the screen, select the Market tab. In this tutorial, we will be buying OmiseGO with a market order. There are other types of orders, but market orders are the easiest to use.
 
-![Using a market order](/img/altcoins/Omisego/Omisegomarket.png){: .img-center}
+![Using a market order](/img/altcoins/omisego/omisegomarket.png){: .img-center}
 
 Enter the amount of OmiseGO you would like to buy. The price you pay per OmiseGO will be shown at the top right in dollars and in Bitcoin. After entering the amount you would like to buy, click Buy VEN. Binance will take a .1% fee from your transaction.
 
-![Buying OmiseGO](/img/altcoins/Omisego/Omisegobuy.png){: .img-center}
+![Buying OmiseGO](/img/altcoins/omisego/omisegobuy.png){: .img-center}
 
 After buying, you should be able to view your OmiseGO in the balances tab.
 
