@@ -32,7 +32,7 @@ Before buying IOTA, you have to buy Bitcoin or Ethereum first. If you live in th
 
 ### Step 1: Send to an Exchange
 
-After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}. Binance supports buying IOTA in the US and many other countries. 
+After buying Bitcoin, you need to send it to an exchange that trades IOTA. In this guide, we will be using [Binance](https://www.binance.com/?ref=28685192){: target="_blank"}, which is one of the best ways to buy IOTA. Binance supports buying IOTA in the US and many other countries. 
 
 After signing into Binance, look in the upper-right corner, hover over the Funds tab, then select Balances.
 
