@@ -111,7 +111,7 @@ The IOTA team has released an official software [wallet](https://github.com/iota
 
 ## IOTA Overview
 
-IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle. Comparitively to [NEO](/altcoins/buy-neo/), IOTA does not rely on another blockchain such as an ERC20 token. 
+IOTA is a cryptocurrency based on an entirely new distributed ledger known as the Tangle. Similar to [NEO](/altcoins/buy-neo/), IOTA does not rely on another blockchain such as an ERC20 token. 
 
 The Tangle is based on a data structure known as Directed Acyclic Graph (DAG). This is vastly different from the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp){: target="_blank"} that [Bitcoin](/bitcoin/) and other altcoins utilize.
 
