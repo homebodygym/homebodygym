@@ -162,7 +162,15 @@ OmiseGo is the ideal solution. This one eWallet will allow users to transfer mon
 
 ### Partnerships
 
+Omise has a number of impressive partnerships.
 
+Credit Saison [partnered](https://www.investinblockchain.com/omise-partners-credit-saison/){: target="_blank"} with Omise in order to facilitate tuiton payments through credit cards. Credit Saison is the 3rd largest credit card issuer in Japan, with more than 20 million card holders.
+
+Back in September of 2017, Omise [partnered](https://www.omise.co/omise-partners-with-mcdonalds-thailand-to-provide-seamless-payment-experience-for-online-and-mobile-orders){: target="_blank"} with McDonald's Thailand. Omise will be the exclusive payment gateway for the McDonald's Thailand website and mobile app. 
+
+There are currently more than 200 McDonald's in Thailand, and that number is [planned to increase](https://insideretail.asia/2016/03/03/mcdonalds-thailand-plans-to-double-burger-outlets/){:target="_blank"} to 400 by 2020. More importantly than the adoption though, is the brand recognition that McDonald's provides for Omise.
+
+OmiseGO has even [partnered](https://www.ccn.com/ethereum-blockchain-startup-partners-thai-government-ekyc-program/){: target="_blank"} with the government of Thailand. OmiseGO is set to develop a digital identity verification and online payment system. 
 
 ### Conclusion
 
