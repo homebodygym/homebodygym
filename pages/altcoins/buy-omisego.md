@@ -106,6 +106,10 @@ The OmiseGO wallet is white label wallet, which means that OmiseGO will provide 
 
 OmiseGO's decentralized exchange is run on a Proof-of-Stake blockchain through which digital assets can be traded. All transactions are managed on the DEX blockchain and validated by OMG stakers. The exchange will also provide interoperability for Ethereum tokens and any Bitcoin blockchain to facilitate cross-chain transfers.
 
+The following video explains more about decentralized exchanges in general.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PTD7MxsDeY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 OMG tokens are ERC-20 tokens that validate transactions on the DEX blockchain. By staking tokens, users validate transactions and are rewarded with transaction fees. Users are incentized not to improperly validate transactions, as untruthful validation of transactions will result in the staked coins being burned.
 
 ## Should you Buy OmiseGO?  
@@ -167,6 +171,8 @@ OmiseGo is the ideal solution. This one eWallet will allow users to transfer mon
 Omise has a number of impressive partnerships.
 
 Credit Saison [partnered](https://www.investinblockchain.com/omise-partners-credit-saison/){: target="_blank"} with Omise in order to facilitate tuiton payments through credit cards. Credit Saison is the 3rd largest credit card issuer in Japan, with more than 20 million card holders.
+
+![Credit Saison Logo](/img/altcoins/omisego/credit-saison.png){: .img-left .img-small}
 
 Back in September of 2017, Omise [partnered](https://www.omise.co/omise-partners-with-mcdonalds-thailand-to-provide-seamless-payment-experience-for-online-and-mobile-orders){: target="_blank"} with McDonald's Thailand. Omise will be the exclusive payment gateway for the McDonald's Thailand website and mobile app. 
 
