@@ -88,6 +88,8 @@ Additionally, if an untrustworthy exchange pulls an exit scam, they could walk a
 
 The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Some cryptocurrencies are unable to be stored in hardware wallets, but OmiseGO is hardware wallet compatible.
 
+![OmiseGO Wallet](/img/altcoins/omisego/wallet.jpg){: .img-center}
+
 OmiseGO is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
 For more information on cryptocurrency wallets, you can check out our [guide](/wallets).
@@ -169,6 +171,8 @@ Credit Saison [partnered](https://www.investinblockchain.com/omise-partners-cred
 Back in September of 2017, Omise [partnered](https://www.omise.co/omise-partners-with-mcdonalds-thailand-to-provide-seamless-payment-experience-for-online-and-mobile-orders){: target="_blank"} with McDonald's Thailand. Omise will be the exclusive payment gateway for the McDonald's Thailand website and mobile app. 
 
 There are currently more than 200 McDonald's in Thailand, and that number is [planned to increase](https://insideretail.asia/2016/03/03/mcdonalds-thailand-plans-to-double-burger-outlets/){:target="_blank"} to 400 by 2020. More importantly than the adoption though, is the brand recognition that McDonald's provides for Omise.
+
+![McDonald's Logo](/img/altcoins/omisego/mcdonalds.png){: .img-right .img-small}
 
 OmiseGO has even [partnered](https://www.ccn.com/ethereum-blockchain-startup-partners-thai-government-ekyc-program/){: target="_blank"} with the government of Thailand. OmiseGO is set to develop a digital identity verification and online payment system. 
 

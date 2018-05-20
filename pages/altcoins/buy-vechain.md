@@ -94,7 +94,7 @@ Additionally, if an untrustworthy exchange pulls an exit scam, they could walk a
 
 The best way to store cryptocurrencies is usually a hardware wallet, as they combine security and accessibility. Some cryptocurrencies are unable to be stored in hardware wallets, but Vechain is hardware wallet compatible.
 
-![Trezor Hardware Wallet](/img/wallets/trezor.png){: .img-center}
+![Trezor Hardware Wallet](/img/altcoins/vechain/wallet.jpg){: .img-center}
 
 Vechain is an ERC20 token, a type of token based on the Ethereum blockchain. All ERC20 tokens can be stored on hardware wallets, but in order to do so, you must configure your hardware wallet with an ERC20 software wallet. One of the most popular ERC20 software wallets is [MyEtherWallet](https://www.myetherwallet.com/){: target="_blank"} (MEW).
 
