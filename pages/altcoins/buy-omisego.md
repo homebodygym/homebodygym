@@ -172,7 +172,7 @@ Omise has a number of impressive partnerships.
 
 Credit Saison [partnered](https://www.investinblockchain.com/omise-partners-credit-saison/){: target="_blank"} with Omise in order to facilitate tuiton payments through credit cards. Credit Saison is the 3rd largest credit card issuer in Japan, with more than 20 million card holders.
 
-![Credit Saison Logo](/img/altcoins/omisego/credit-saison.png){: .img-left .img-small}
+![Credit Saison Logo](/img/altcoins/omisego/credit-saison.png){: .img-right .img-small}
 
 Back in September of 2017, Omise [partnered](https://www.omise.co/omise-partners-with-mcdonalds-thailand-to-provide-seamless-payment-experience-for-online-and-mobile-orders){: target="_blank"} with McDonald's Thailand. Omise will be the exclusive payment gateway for the McDonald's Thailand website and mobile app. 
 
