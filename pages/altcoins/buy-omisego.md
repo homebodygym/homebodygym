@@ -172,6 +172,16 @@ There are currently more than 200 McDonald's in Thailand, and that number is [pl
 
 OmiseGO has even [partnered](https://www.ccn.com/ethereum-blockchain-startup-partners-thai-government-ekyc-program/){: target="_blank"} with the government of Thailand. OmiseGO is set to develop a digital identity verification and online payment system. 
 
+Omise has dozens of other partners who will move to use OmiseGO once their payment system is active.
+
 ### Conclusion
+
+OmiseGO aims to be the payment gateway and eWallet of choice. With hundreds of millions of people worldwide lacking access to traditional banks, eWallets have major real world usage.
+
+With its parent company Omise scoring many considerable partnerships, once OmiseGO's decentralized exchange comes online, they will have abundant users for their platform.
+
+Additionally, once OmiseGO implements Plasma, they will have the speed required to outpeform current payment processors and become a viable alternative.
+
+If OmiseGO successfully implements Plasma and launches their decentralized exchange, they have the potential to become a major payment gateway system.
 
 <b>NOTE:</b> <i>We are not financial advisors and none of this information should be taken as investment advice. We take no responsibility for any losses incurred through cryptocurrency trading.</i>
