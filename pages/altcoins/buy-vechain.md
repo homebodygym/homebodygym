@@ -1,8 +1,8 @@
 ---
-title: "How to Buy Vechain: A Beginner's Guide "
+title: "How to Buy Vechain in US 2018 (3 Easy Steps)"
 layout: page
 permalink: "/altcoins/buy-vechain/"
-seotitle: "3 Easy Steps to Buy Vechain Quickly in 2018"
+seotitle: "How to Buy Vechain in US 2018 (3 Easy Steps)"
 ---
 
 <h3 class="page-subtitle">

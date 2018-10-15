@@ -1,8 +1,8 @@
 ---
-title: "How to Buy OmiseGO: A Beginner's Guide "
+title: "How to Buy OmiseGO in US 2018 (3 Easy Steps)"
 layout: page
 permalink: "/altcoins/buy-omisego/"
-seotitle: "3 Easy Steps to Buy OmiseGO Quickly in 2018"
+seotitle: "How to Buy OmiseGO in US 2018 (3 Easy Steps)"
 ---
 
 <h3 class="page-subtitle">

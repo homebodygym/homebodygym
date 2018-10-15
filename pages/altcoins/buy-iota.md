@@ -1,8 +1,8 @@
 ---
-title: "How to Buy IOTA: A Beginner's Guide "
+title: "How to Buy IOTA in US 2018 (3 Easy Steps)"
 layout: page
 permalink: "/altcoins/buy-iota/"
-seotitle: "3 Easy Steps to Buy IOTA Quickly in 2018"
+seotitle: "How to Buy IOTA in US 2018 (3 Easy Steps)"
 ---
 
 <h3 class="page-subtitle">
