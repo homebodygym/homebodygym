@@ -1,5 +1,5 @@
 ---
-title: "How to Buy Bitcoin in 2018 – The Complete Beginner's Guide "
+title: "How to Buy Bitcoin in 2018 – The Complete Beginner's Guide"
 layout: page
 permalink: "/exchanges/"
 seotitle: "5 Best Bitcoin Exchanges & How to Buy (2018)"
