@@ -22,7 +22,7 @@ However, the greater difficulty in buying means that greater profit may be reape
 
 **This guide will explain everything you need to know in order to buy IOTA**, an altcoin based on a new technology called the Tangle.
 
-## How to Buy IOTA with USD 
+## How to Buy IOTA in US with USD 
 
 There is no way to purchase IOTA directly with USD. Instead, you have to purchase another cryptocurrency with USD, then trade it for IOTA. 
 
