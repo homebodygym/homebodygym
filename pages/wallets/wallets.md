@@ -64,7 +64,7 @@ The [Ledger Blue](https://amzn.to/2JVuMpR){: target="_blank"} is significantly m
 
 Unlike the Nano S, the Ledger Blue has a large touch screen, making it an incredibly user friendly hardware wallet. In addition, it can support many different tokens. For the full list of supported cryptocurrencies, click [here](https://www.ledgerwallet.com/cryptocurrencies){: target="_blank"}. 
 
-[View on Amazon](/wallets/ledger-blue-review/){: .btn-middle}
+[View on Amazon](https://www.amazon.com/gp/product/B06WVLZSK2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&creative=9325&linkCode=as2&creativeASIN=B06WVLZSK2&linkId=27ba1653752fa72e56f96fddb6cd1079){: .btn-middle}
 
 ### [TREZOR Wallet](https://amzn.to/2HalWD1){: target="_blank"} - $55 
 ![TREZOR Wallet](/img/wallets/trezor.png){: .img-right .img-small}
