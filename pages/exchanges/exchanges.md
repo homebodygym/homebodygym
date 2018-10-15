@@ -64,7 +64,7 @@ This guide was created for the new guy. You'll learn about different Bitcoin exc
 
 When it comes to buying Bitcoin, the exchanges listed in the table above are all exemplary choices – although, different exchanges' fees, transactions times, and privacy levels vary. 
 
-This page is not meant to teach you how to buy Bitcoin, but rather which exchanges are best. If this is your first time buying, check out our step-by-step buying guide [here](/bitcoin/how-to-buy/). 
+This page is not meant to teach you how to buy Bitcoin, but rather which exchanges are best. If this is your first time buying, check out our step-by-step buying guide [here](/bitcoin). 
 
 Now we're going to take a closer look at each exchange so you can make the most informed decision. 
 
