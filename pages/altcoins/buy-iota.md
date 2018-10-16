@@ -6,7 +6,7 @@ seotitle: "How to Buy IOTA in US 2018 (3 Easy Steps)"
 ---
 
 <h3 class="page-subtitle">
-    Updated May 16th, 2018 by 
+    Updated October 15th, 2018 by 
     <img src="/img/profile/diego.jpg" class="circle" alt="Headshot"> Diego Riitano
 </h3>
 
@@ -108,6 +108,10 @@ Hot storage may be better than an exchange wallet, but if a hacker gains access 
 Downloading a software wallet onto a device that becomes disconnected from the internet is known as "cold storage". Cold storage is the safer way to use software wallets, as the lack of internet access will prevent hackers from infiltrating your device and your wallet.
 
 The IOTA team has released an official software [wallet](https://github.com/iotaledger/wallet/releases){: target="_blank"} that allows you to store your IOTA in hot or cold storage. For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to wallets.
+
+<b>Update:</b> According to IOTA developer Peter Willemsen, support for IOTA on the [Ledger](https://amzn.to/2H7TIsp){: target="_blank"} Nano S has [advanced](https://iota-news.com/iota-available-on-the-ledger-nano-hardware-wallets-soon/){: target="_blank"} significantly. IOTA is currently working on another software wallet known as Trinity, which aims to be more user-friendly and safer than the current IOTA light wallet. The Trinity wallet will be integrated with the Nano S to provide support for IOTA.
+
+The IOTA foundation [announced](https://iota-news.com/iota-trinity-update-12th-october/){: target="_blank"} on October 12th that Trinity Ledger Nano S intregration is in the final stages of implementation, and alpha testing will begin in the coming days.
 
 ## IOTA Overview
 
