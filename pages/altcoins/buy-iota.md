@@ -109,7 +109,7 @@ Downloading a software wallet onto a device that becomes disconnected from the i
 
 The IOTA team has released an official software [wallet](https://github.com/iotaledger/wallet/releases){: target="_blank"} that allows you to store your IOTA in hot or cold storage. For more information on cryptocurrency wallets, you can check out our [guide](/wallets) to wallets.
 
-<b>Update:</b> According to IOTA developer Peter Willemsen, support for IOTA on the [Ledger](https://amzn.to/2H7TIsp){: target="_blank"} Nano S has [advanced](https://iota-news.com/iota-available-on-the-ledger-nano-hardware-wallets-soon/){: target="_blank"} significantly. IOTA is currently working on another software wallet known as Trinity, which aims to be more user-friendly and safer than the current IOTA light wallet. The Trinity wallet will be integrated with the Nano S to provide support for IOTA.
+<b>Update:</b> According to IOTA developer Peter Willemsen, support for IOTA on the [Ledger Nano S]](https://amzn.to/2H7TIsp){: target="_blank"} has [advanced](https://iota-news.com/iota-available-on-the-ledger-nano-hardware-wallets-soon/){: target="_blank"} significantly. IOTA is currently working on another software wallet known as Trinity, which aims to be more user-friendly and safer than the current IOTA light wallet. The Trinity wallet will be integrated with the Nano S to provide support for IOTA.
 
 The IOTA foundation [announced](https://iota-news.com/iota-trinity-update-12th-october/){: target="_blank"} on October 12th that Trinity Ledger Nano S intregration is in the final stages of implementation, and alpha testing will begin in the coming days.
 
